@@ -1,0 +1,77 @@
+<!--prompt-->
+
+Proofreading Process (Final)
+
+Objective:
+To review a document for misspellings and minor grammatical errors, delivering the unchanged original document alongside a plain text list of error locations (by paragraph and sentence number) and recommended corrections, using American English and CMOS guidelines.
+
+Steps:
+Preparation
+Receive the document in a readable format (e.g., PDF, Word, text file).
+Confirm the document’s purpose with the author, if necessary, to contextualize the review.
+Reference the Chicago Manual of Style for American English standards.
+Work in a focused, distraction-free environment.
+
+Initial Read-Through
+Read the document carefully to understand its flow and structure.
+Do not mark or modify anything at this stage.
+
+Error Identification
+Scan the document line by line, identifying only:
+Misspellings: e.g., "recieve" → "receive."
+Minor Grammatical Errors: e.g., "she run" → "she runs," "its" → "it’s."
+Align with CMOS and American English:
+Spelling: "organize" not "organise."
+Punctuation: Periods inside quotes (CMOS 6.9), serial commas (CMOS 6.19).
+Contractions and possessives: "dont" → "don’t," "dogs" → "dog’s" if applicable.
+Do not address sentence structure, word choice, or substantive content.
+
+Error Logging
+Note each error’s location by:
+Paragraph Number: Count each paragraph starting from 1.
+Sentence Number: Count sentences within each paragraph starting from 1.
+Record the error and recommended fix (e.g., "Paragraph 1, Sentence 2: 'teh' → 'the'").
+Use a plain text format for simplicity.
+
+Consistency Check (Limited)
+Verify spelling and minor grammar consistency (e.g., "email" throughout, not "e-mail" per CMOS 7.89).
+Log any discrepancies as errors without changing the document.
+
+Final Review
+Re-read the document to ensure all misspellings and minor grammatical errors are logged.
+Confirm no content, meaning, or structure has been altered.
+
+Deliverable Creation
+Product: 
+Part 1: The original document, completely unchanged.
+Part 2: A plain text list of errors with locations (paragraph and sentence numbers) and recommended fixes.
+Provide both parts to the author in an accessible format (e.g., two separate files or sections).
+
+Key Features:
+Unchanged Document: The original text remains intact—no edits applied.
+Plain Text List: Errors listed as "Paragraph X, Sentence Y: 'error' → 'fix'."
+Scope Limitation: Only misspellings and minor grammatical errors corrected, per CMOS and American English.
+No Substantive Changes: Content, style, and intent preserved.
+
+Tools:
+Chicago Manual of Style for reference.
+A text editor (e.g., Notepad) for the error list.
+Paragraph/sentence counting method (manual or assisted by software like Word’s numbering).
+
+---
+
+Example Deliverable
+Original Document (Unchanged):
+The dog jump high on tuesday. Its a windy day. She dont care about the wind.
+
+Birds sings loudly nearby. The cat watch them. Its tail twitch with excitment.
+
+Plain Text Error List:
+Paragraph 1, Sentence 1: "jump" → "jumps"
+Paragraph 1, Sentence 2: "Its" → "It’s"
+Paragraph 1, Sentence 3: "dont" → "don’t"
+
+Paragraph 2, Sentence 1: "sings" → "sing"
+Paragraph 2, Sentence 2: "watch" → "watches"
+Paragraph 2, Sentence 3: "Its" → "It’s"
+Paragraph 2, Sentence 3: "excitment" → "excitement"
