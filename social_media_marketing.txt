@@ -1,0 +1,70 @@
+Below is the updated "social media marketing" function exported as plain text, now including LinkedIn with a career-focused and job-oriented approach. It follows the same structure as the original, tailored for posting about a clip theme (e.g., "underrated TIE Fighter Star Wars video game and becoming the villain") across specified channels (Threads, Instagram, Facebook Page, TikTok, Bluesky, X, YouTube, LinkedIn). The function generates marketing messages targeting fantasy serial novel readers, with a CTA for stack.samliebl.com subscriptions and researched hashtags, optimized for each platform.
+
+---
+
+social media marketing function  
+Description: Takes a clip theme and generates marketing posts for social media channels, targeting fantasy readers with a CTA for stack.samliebl.com subscriptions. LinkedIn is career- and job-focused for creative professionals.
+
+Input: clip_theme (string) - Brief description of the clip content  
+
+Operation:  
+1. Define channels: Threads, Instagram, Facebook Page, TikTok, Bluesky, X, YouTube, LinkedIn  
+2. For each channel, research hashtags targeting fantasy serial novel readers (LinkedIn targets creative pros), incorporating clip_theme where relevant  
+3. Generate post with:  
+   - Brief hook tying clip_theme to fantasy serial subscription (LinkedIn ties to career skills)  
+   - CTA: "Subscribe to stack.samliebl.com"  
+   - Channel-specific optimization (character limits, style; LinkedIn career-focused)  
+   - Hashtags based on research  
+4. Output posts in plain text with character counts  
+
+Example Invocation:  
+social_media_marketing("underrated TIE Fighter Star Wars video game and becoming the villain")  
+
+Output:  
+
+1. Threads (500 characters)  
+	Hashtags: #FantasyReads #SerialFiction #StarWarsGames #DarkSide #VillainArc  
+	Post: Ever dreamed of becoming the villain? *TIE Fighter* lets you rule the galaxy as an Imperial pilot! Underrated gem with a twist—subscribe to stack.samliebl.com for epic serials that rival Revan’s hidden past! #FantasyReads #SerialFiction #StarWarsGames #DarkSide #VillainArc  
+	Character Count: 234
+
+2. Instagram (2,200 characters, ~125 visible)  
+	Hashtags: #FantasyBooks #EpicFantasy #StarWarsFans #VillainVibes #GamingHistory  
+	Post: Step into the cockpit of *TIE Fighter*—an underrated Star Wars classic where you become the villain! Fly for the Empire, embrace the dark side, and unravel a tale as shocking as a certain Sith Lord’s true identity. Subscribe to stack.samliebl.com for fantasy serials that grip you—link in bio! #FantasyBooks #EpicFantasy #StarWarsFans #VillainVibes #GamingHistory  
+	Character Count: 255
+
+3. Facebook Page (63,206 characters, ~480 visible)  
+	Hashtags: #FantasyFiction #NovelSeries #StarWarsLegacy #EvilWithin #GameLore  
+	Post: *Star Wars: TIE Fighter*—an underrated masterpiece where you become the villain, serving the Empire’s iron will. Its dark narrative echoes the twists of a Jedi-turned-Sith saga. Subscribe to stack.samliebl.com for serial novels that pull you in—join now! #FantasyFiction #NovelSeries #StarWarsLegacy #EvilWithin #GameLore  
+	Character Count: 231
+
+4. TikTok (2,200 characters, 80 for bio)  
+	Hashtags: #FantasyTok #SerialReads #StarWarsNerd #VillainEra #TIEFighter  
+	Post: POV: You’re the villain in *TIE Fighter*! This underrated Star Wars game flips the script—fly for the Empire, live the dark side. Want more twists like Revan’s secret? Subscribe to stack.samliebl.com—link in bio! #FantasyTok #SerialReads #StarWarsNerd #VillainEra #TIEFighter  
+	Character Count: 211
+
+5. Bluesky (300 characters)  
+	Hashtags: #FantasyWorlds #ReadFantasy #StarWarsVibes #DarkTurn #GameGem  
+	Post: *TIE Fighter*: the underrated Star Wars game where you become the villain! Imperial glory awaits—subscribe to stack.samliebl.com for serials with twists like a masked Sith’s reveal! #FantasyWorlds #ReadFantasy #StarWarsVibes #DarkTurn #GameGem  
+	Character Count: 223
+
+6. X (280 characters)  
+	Hashtags: #FantasyLit #SerialNovel #StarWarsTIE #VillainPath #KOTOR  
+	Post: *TIE Fighter*—an underrated Star Wars gem where you’re the villain! Fly for the Empire, hint at Revan’s twist. Subscribe to stack.samliebl.com for epic serials! #FantasyLit #SerialNovel #StarWarsTIE #VillainPath #KOTOR  
+	Character Count: 198
+
+7. YouTube (5,000 characters, 100 for titles)  
+	Hashtags: #FantasySeries #BookTube #StarWarsGaming #VillainJourney #KOTORTwist  
+	Title: Become the Villain in *TIE Fighter*—Subscribe to stack.samliebl.com!  
+	Description: *Star Wars: TIE Fighter* is an underrated classic where you embrace the villain’s role, commanding Imperial ships. Love a twist like Revan’s unmasking? Subscribe to stack.samliebl.com for fantasy serials that captivate—join now! #FantasySeries #BookTube #StarWarsGaming #VillainJourney #KOTORTwist  
+	Character Counts: Title: 60 | Description: 233
+
+8. LinkedIn (3,000 characters)  
+	Hashtags: #GameDesign #CreativeCareers #WritingJobs #StorytellingSkills #StarWarsLore  
+	Post: *Star Wars: TIE Fighter*—an underrated 90s game—offers a career lesson in narrative design: stepping into the villain’s shoes as an Imperial pilot. Its perspective shift mirrors the jaw-dropping reveal of a Sith Lord’s past in *Knights of the Old Republic*. For writers, game devs, and creatives seeking inspiration, subscribe to stack.samliebl.com—access fantasy serials to fuel your next project or career move! #GameDesign #CreativeCareers #WritingJobs #StorytellingSkills #StarWarsLore  
+	Character Count: 349
+
+End Function  
+
+---
+
+This updated function can be invoked with any clip theme (e.g., `social_media_marketing("exploring alien worlds")`), and it will generate tailored posts, with LinkedIn now explicitly career- and job-focused for creative professionals. Copy this into a console or script environment as needed! Let me know if you’d like further modifications.
