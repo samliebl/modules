@@ -1,77 +1,100 @@
 <!--prompt-->
 
-Proofreading Process (Final)
+Proofreading Process (Refined)
 
 Objective:
-To review a document for misspellings and minor grammatical errors, delivering the unchanged original document alongside a plain text list of error locations (by paragraph and sentence number) and recommended corrections, using American English and CMOS guidelines.
+To meticulously review a document for misspellings and minor grammatical errors only, delivering the original document unchanged alongside a plain text list of error locations (by paragraph and sentence number) and recommended fixes, adhering to American English conventions and the Chicago Manual of Style (CMOS).
 
 Steps:
 Preparation
-Receive the document in a readable format (e.g., PDF, Word, text file).
-Confirm the document’s purpose with the author, if necessary, to contextualize the review.
-Reference the Chicago Manual of Style for American English standards.
-Work in a focused, distraction-free environment.
+Obtain the document in a readable format (e.g., PDF, Word, text file).
+Confirm the document’s context with the author if clarification is needed for error identification.
+Use the Chicago Manual of Style (CMOS) as the authoritative reference for American English standards.
+Ensure a distraction-free environment for focused review.
 
 Initial Read-Through
-Read the document carefully to understand its flow and structure.
-Do not mark or modify anything at this stage.
+Read the document in its entirety to grasp its structure, tone, and intent.
+Avoid marking or altering anything during this step.
 
 Error Identification
-Scan the document line by line, identifying only:
-Misspellings: e.g., "recieve" → "receive."
-Minor Grammatical Errors: e.g., "she run" → "she runs," "its" → "it’s."
-Align with CMOS and American English:
-Spelling: "organize" not "organise."
-Punctuation: Periods inside quotes (CMOS 6.9), serial commas (CMOS 6.19).
-Contractions and possessives: "dont" → "don’t," "dogs" → "dog’s" if applicable.
-Do not address sentence structure, word choice, or substantive content.
+Scan the document line by line, flagging only:
+Misspellings: Words not conforming to American English (e.g., "recieve" → "receive").
+Minor Grammatical Errors: Issues like subject-verb agreement (e.g., "dog jump" → "dog jumps"), possessives (e.g., "its" → "it’s"), or basic word order (e.g., "does just not" → "does not just").
+Apply CMOS and American English rules:
+Spelling: Use American forms (e.g., "organize" not "organise").
+Punctuation: Follow CMOS basics (e.g., periods inside quotes per 6.9).
+Hyphenation: Avoid unnecessary hyphens (e.g., "city scribes" not "city-scribes" per 7.89).
+Exclude substantive edits (e.g., rephrasing, stylistic changes, or content clarification).
 
 Error Logging
-Note each error’s location by:
-Paragraph Number: Count each paragraph starting from 1.
-Sentence Number: Count sentences within each paragraph starting from 1.
-Record the error and recommended fix (e.g., "Paragraph 1, Sentence 2: 'teh' → 'the'").
-Use a plain text format for simplicity.
+Record each error’s location:
+Paragraph Number: Count paragraphs starting at 1, treating headings as separate paragraphs if standalone.
+Sentence Number: Count sentences within each paragraph starting at 1, using periods as delimiters.
+Log the error and fix in plain text (e.g., "Paragraph 1, Sentence 2: 'teh' → 'the'").
+Maintain a narrow scope, avoiding suggestions beyond misspellings or minor grammar.
 
 Consistency Check (Limited)
-Verify spelling and minor grammar consistency (e.g., "email" throughout, not "e-mail" per CMOS 7.89).
-Log any discrepancies as errors without changing the document.
+Verify spelling and minor grammatical consistency (e.g., "newfound" not "new-found" per CMOS 7.89).
+Flag inconsistencies only if they are clear misspellings or minor errors, not stylistic choices.
 
 Final Review
-Re-read the document to ensure all misspellings and minor grammatical errors are logged.
-Confirm no content, meaning, or structure has been altered.
+Re-read the document to confirm all eligible errors are logged and no content has been altered.
+Ensure accuracy in paragraph and sentence numbering.
 
 Deliverable Creation
-Product: 
-Part 1: The original document, completely unchanged.
-Part 2: A plain text list of errors with locations (paragraph and sentence numbers) and recommended fixes.
-Provide both parts to the author in an accessible format (e.g., two separate files or sections).
+Product:
+Part 1: The original document, verbatim and unmodified.
+Part 2: A plain text list of errors in the format: "Paragraph X, Sentence Y: 'error' → 'fix'."
+Provide both parts clearly separated (e.g., in two sections or files).
 
 Key Features:
-Unchanged Document: The original text remains intact—no edits applied.
-Plain Text List: Errors listed as "Paragraph X, Sentence Y: 'error' → 'fix'."
-Scope Limitation: Only misspellings and minor grammatical errors corrected, per CMOS and American English.
-No Substantive Changes: Content, style, and intent preserved.
+Unchanged Document: No edits applied to the original text, preserving all content, structure, and intent.
+Plain Text List: Errors identified with precise locations and concise fixes (e.g., "Paragraph 3, Sentence 1: 'let' → 'lets'").
+Limited Scope: Corrections restricted to misspellings and minor grammatical errors; no rewording, restructuring, or subjective improvements.
+American English & CMOS: All fixes align with CMOS (e.g., "stepmother" not "step-mother" per 7.89) and American spelling (e.g., "Margrave" not "Markgrave").
 
 Tools:
-Chicago Manual of Style for reference.
-A text editor (e.g., Notepad) for the error list.
-Paragraph/sentence counting method (manual or assisted by software like Word’s numbering).
+Chicago Manual of Style (CMOS) for reference.
+A simple text editor (e.g., Notepad) for the error list.
+Manual or software-assisted counting for paragraph and sentence numbers (e.g., Word’s line numbering).
 
 ---
 
-Example Deliverable
-Original Document (Unchanged):
-The dog jump high on tuesday. Its a windy day. She dont care about the wind.
+Example Outcome
+Below is an example of the desired outcome, based on a sample text processed using this refined process. This demonstrates how the unchanged document and error list should appear.
 
-Birds sings loudly nearby. The cat watch them. Its tail twitch with excitment.
+Sample Original Document (Unchanged):
+Home
 
-Plain Text Error List:
-Paragraph 1, Sentence 1: "jump" → "jumps"
-Paragraph 1, Sentence 2: "Its" → "It’s"
-Paragraph 1, Sentence 3: "dont" → "don’t"
+ Summarize
 
-Paragraph 2, Sentence 1: "sings" → "sing"
-Paragraph 2, Sentence 2: "watch" → "watches"
-Paragraph 2, Sentence 3: "Its" → "It’s"
-Paragraph 2, Sentence 3: "excitment" → "excitement"
+Lady Anastasia of Pomerania 1245-1317, Doberan Minster, stained glass depicting her commissioning it
+Copiar books or cartularies are ‘house books’ of medieval chanceries in which incoming materials are recorded. These books are used for the administration of whatever institution a particular chancery serves. Initially, during the Early Middle Ages, this would exclusively be a bishopric or a monastery. In the wake of the great City Boom of the 13th Century, driven by the upcoming merchant class, it could equally well be the chancery of a city administration. Worldly rulers like dukes or kings are the last ones to come into possession of their own chanceries. The merchant class of burghers, which also includes craftsmen, is often overlooked in Medieval Studies. Scholars find the first and second estates, clerics and knights, more alluring. A chancery, while also being a place which produces writing, differs from a scriptorium in so far as its a place from whence written documents like letters, privileges and deeds etc are sent for administrative purposes. Remember, this is pragmatic literature: literature which serves concrete, and sometimes less concrete purposes.
+
+The burghers are key players in promoting literacy and the use of writing, books and letters starting in the High Middle Ages. Only with writing can merchants become sedentary during this epoch, living year-round in one place with the new-found abilities to correspond over great distance and to keep records. Not seldom, they hire freelance ‘corner-scribes’ trained by cathedral schools for these purposes. Latin is still almost exclusively used. Previously, the merchant’s lifestyle was a traveling one, traveling from fair to fair throughout the year: ie to Champagne, then to Frankfurt.
+
+In Northern Europe, the acquisition of writing by merchants let them form small companies, mostly consisting of two partners corresponding by letter, each in a disparate location: ie one brother in Hamburg, the other one in London, or an uncle in Cologne and his nephew in Bergen. One can construe a kind of proto-capitalism emerging in Italy during the 14th Century around banking, the Medicii family and textile and metallurgy production, which begins to overstep the bounds of the family-based cottage industry. In the North, however, a trading company is strictly a tiny family business, which typically lasts for as long as its usefulness or convenience lasts, often dissolving and reforming to suit the new unfolding situation. The resilience of this system allowed the Hanseatic League — an informal association of trading cities along waterways in Northern Europe, especially along the Baltic — to flourish for as much as 400 years.
+
+Sample Plain Text Error List:
+Paragraph 1, Sentence 8: "its" → "it’s"
+Paragraph 2, Sentence 2: "new-found" → "newfound"
+Paragraph 3, Sentence 1: "let" → "lets"
+
+Explanation of Example:
+Unchanged Document: The original text is preserved exactly as provided, with no edits applied.
+Error List: Identifies three errors:
+"its" → "it’s" (minor grammatical error: possessive vs. contraction, CMOS 5.220).
+"new-found" → "newfound" (misspelling per CMOS 7.89, no hyphen needed).
+"let" → "lets" (minor grammatical error: subject-verb agreement with "acquisition").
+Location Precision: Errors are pinpointed by paragraph and sentence number (e.g., Paragraph 1 is the heading, Paragraph 2 is "Summarize," Paragraph 3 begins the main text).
+Scope Adherence: No stylistic changes (e.g., "Not seldom" left as is) or content alterations were made.
+
+---
+
+Improvements in the Refined Prompt:
+Clarity: Explicitly defines "minor grammatical errors" with examples (e.g., subject-verb agreement, possessives) to avoid ambiguity.
+Precision: Specifies CMOS sections (e.g., 7.89 for hyphenation) for consistency and reference.
+Example Integration: Adds a concrete sample outcome to illustrate the process, making it easier to understand the deliverable format.
+Scope Reinforcement: Reiterates the exclusion of substantive edits multiple times to ensure strict adherence.
+
+This refined prompt should now serve as a robust guide for proofreading tasks, with the example from your text showcasing the ideal result. If you’d like to test it further or adjust any details, let me know!
