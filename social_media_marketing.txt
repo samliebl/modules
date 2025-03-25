@@ -1,89 +1,91 @@
-"Social Media Marketing" function/process/command
+# “Social Media Marketing" function/process/command
 
-Below is a reframed version of the modular social media marketing prompt, enhanced with a new function to perform deep research on social media hashtags relevant to the user’s input topic. This updated structure dynamically incorporates the latest and best hashtags for each platform, ensuring posts are optimized for current trends. The prompt remains flexible, allowing users to input their own marketing message, which is then adapted for Threads, Instagram, Facebook Page, TikTok, Bluesky, X, YouTube, and LinkedIn (with LinkedIn tailored for business growth). The target audience is fantasy serial novel readers, with a consistent CTA for stack.samliebl.com subscriptions.
+Below is a reframed version of the modular social media marketing prompt, enhanced with a new function to perform deep research on social media hashtags relevant to the user’s input topic.
+
+This updated structure dynamically incorporates the latest and best hashtags for each platform, ensuring posts are optimized for current trends. The prompt remains flexible, allowing users to input their own marketing message, which is then adapted for Threads, Instagram, Facebook Page, TikTok, Bluesky, X, YouTube, and LinkedIn (with LinkedIn tailored for business growth). The target audience is fantasy, science fiction novels and love lore and fandom, with a consistent CTA for stack.samliebl.com subscriptions.
 
 ---
 
-### Modular Social Media Marketing Prompt with Dynamic Hashtag Research
+Modular Social Media Marketing Prompt with Dynamic Hashtag Research
 
-**Description:**  
+Description:  
 This customizable prompt takes a user-provided marketing message and generates optimized social media posts across multiple channels, targeting fantasy serial novel readers with a CTA for stack.samliebl.com subscriptions. It includes a new hashtag research function that dynamically pulls the latest and best hashtags relevant to the input topic from social media platforms. Posts are tailored to each channel’s style and character limits, with LinkedIn spun for business professionals to help them win and grow their businesses.
 
-**Input:**  
-- **Marketing Message (string):** A brief core idea or theme (e.g., "self-deprecating humor and intelligence," "unraveling ancient mysteries").  
+Input:  
+- Marketing Message (string): A brief core idea or theme (e.g., "self-deprecating humor and intelligence," "unraveling ancient mysteries").  
 
-**Operation:**  
-1. **Define Channels:** Threads, Instagram, Facebook Page, TikTok, Bluesky, X, YouTube, LinkedIn.  
-2. **Hashtag Research Function:**  
-   - **Process:** Perform a deep, real-time analysis of hashtag trends across social media platforms (e.g., X, Instagram, TikTok) related to the user’s marketing message.  
-   - **Method:** Search for hashtags tied to the topic (e.g., for "unraveling ancient mysteries," look at #AncientMysteries, #MysteryFiction, etc.), prioritizing those with high engagement, recent activity (within the last 30 days as of March 21, 2025), and relevance to fantasy readers (LinkedIn targets business/creative pros).  
-   - **Output:** A curated list of 5-10 trending, high-performing hashtags per channel, dynamically updated to reflect the latest social media landscape.  
-3. **Generate Posts:** For each channel:  
+Operation:  
+1. Define Channels: Threads, Instagram, Facebook Page, TikTok, Bluesky, X, YouTube, LinkedIn.  
+2. Hashtag Research Function:  
+   - Process: Perform a deep, real-time analysis of hashtag trends across social media platforms (e.g., X, Instagram, TikTok) related to the user’s marketing message.  
+   - Method: Search for hashtags tied to the topic (e.g., for "unraveling ancient mysteries," look at #AncientMysteries, #MysteryFiction, etc.), prioritizing those with high engagement, recent activity (within the last 30 days as of March 21, 2025), and relevance to fantasy readers (LinkedIn targets business/creative pros).  
+   - Output: A curated list of 5-10 trending, high-performing hashtags per channel, dynamically updated to reflect the latest social media landscape.  
+3. Generate Posts: For each channel:  
    - Create a brief hook incorporating the marketing message, tying it to fantasy serial subscriptions (LinkedIn ties to business/career benefits).  
    - Include the CTA: "Subscribe to stack.samliebl.com."  
    - Optimize for platform-specific style and character limits (e.g., concise for X, visual for Instagram).  
    - For LinkedIn, spin the message to show how it aids business growth, client wins, or creative strategy.  
    - Add dynamically researched hashtags from the research function.  
-4. **Output:** Plain text posts with character counts for each channel.  
+4. Output: Plain text posts with character counts for each channel.  
 
-**Example Usage:**  
+Example Usage:  
 - Input: "unraveling ancient mysteries"  
 - Output: Tailored posts with dynamically researched, trending hashtags (see below).  
 
-**Instructions for User:**  
+Instructions for User:  
 - Provide your marketing message (e.g., "epic battles of wit," "forbidden magic unleashed").  
 - I’ll perform deep hashtag research across platforms to find the latest, most relevant hashtags as of March 21, 2025, then generate posts for Threads (500 chars), Instagram (2,200 chars), Facebook Page (63,206 chars), TikTok (2,200 chars), Bluesky (300 chars), X (280 chars), YouTube (5,000 chars), and LinkedIn (3,000 chars).  
 - LinkedIn will focus on business growth; all others target fantasy readers.  
 
 ---
 
-### Example Application with "Unraveling Ancient Mysteries"
+Example Application with "Unraveling Ancient Mysteries"
 Here’s how it works with the input "unraveling ancient mysteries," including dynamically researched hashtags based on current trends (simulated as of March 21, 2025, using plausible, high-engagement tags).
 
-#### 1. Threads (500 characters)  
-**Hashtags:** #MysteryUnraveled #FantasyQuest #AncientSecrets2025 #SerialLore #EpicReads  
-**Post:** Unraveling ancient mysteries—cryptic runes, lost cities, epic twists. My serials dive into the unknown for fantasy fans! Subscribe to stack.samliebl.com for tales that decode the past. #MysteryUnraveled #FantasyQuest #AncientSecrets2025 #SerialLore #EpicReads  
-**Character Count:** 236  
+1. Threads (500 characters)  
+	Hashtags: #MysteryUnraveled #FantasyQuest #AncientSecrets2025 #SerialLore #EpicReads  
+	Post: Unraveling ancient mysteries—cryptic runes, lost cities, epic twists. My serials dive into the unknown for fantasy fans! Subscribe to stack.samliebl.com for tales that decode the past. #MysteryUnraveled #FantasyQuest #AncientSecrets2025 #SerialLore #EpicReads  
+	Character Count: 236  
 
-#### 2. Instagram (2,200 characters, ~125 visible)  
-**Hashtags:** #AncientMysteries #FantasyReadsNow #MysteryLovers #LostLore #BookTok2025  
-**Post:** Unraveling ancient mysteries—hidden tombs, forgotten scrolls, secrets unearthed. My fantasy serials bring the past alive for readers who crave epic quests. Subscribe to stack.samliebl.com—link in bio! #AncientMysteries #FantasyReadsNow #MysteryLovers #LostLore #BookTok2025  
-**Character Count:** 238  
+2. Instagram (2,200 characters, ~125 visible)  
+	Hashtags: #AncientMysteries #FantasyReadsNow #MysteryLovers #LostLore #BookTok2025  
+	Post: Unraveling ancient mysteries—hidden tombs, forgotten scrolls, secrets unearthed. My fantasy serials bring the past alive for readers who crave epic quests. Subscribe to stack.samliebl.com—link in bio! #AncientMysteries #FantasyReadsNow #MysteryLovers #LostLore #BookTok2025  
+	Character Count: 238  
 
-#### 3. Facebook Page (63,206 characters, ~480 visible)  
-**Hashtags:** #MysteryFiction #AncientTales25 #FantasySerials #HiddenHistory #ReadNow  
-**Post:** Unraveling ancient mysteries fuels my fantasy serials—think buried relics and epic reveals that rival any legend. Perfect for readers who love the unknown. Subscribe to stack.samliebl.com for stories that dig deep! #MysteryFiction #AncientTales25 #FantasySerials #HiddenHistory #ReadNow  
-**Character Count:** 231  
+3. Facebook Page (63,206 characters, ~480 visible)  
+	Hashtags: #MysteryFiction #AncientTales25 #FantasySerials #HiddenHistory #ReadNow  
+	Post: Unraveling ancient mysteries fuels my fantasy serials—think buried relics and epic reveals that rival any legend. Perfect for readers who love the unknown. Subscribe to stack.samliebl.com for stories that dig deep! #MysteryFiction #AncientTales25 #FantasySerials #HiddenHistory #ReadNow  
+	Character Count: 231  
 
-#### 4. TikTok (2,200 characters, 80 for bio)  
-**Hashtags:** #MysteryTok #AncientVibes #FantasySerial #SecretUncovered #TikTokReads  
-**Post:** POV: You’re unraveling ancient mysteries—lost codes, epic lore, wild twists. My fantasy serials bring it all! Subscribe to stack.samliebl.com—link in bio! #MysteryTok #AncientVibes #FantasySerial #SecretUncovered #TikTokReads  
-**Character Count:** 200  
+4. TikTok (2,200 characters, 80 for bio)  
+	Hashtags: #MysteryTok #AncientVibes #FantasySerial #SecretUncovered #TikTokReads  
+	Post: POV: You’re unraveling ancient mysteries—lost codes, epic lore, wild twists. My fantasy serials bring it all! Subscribe to stack.samliebl.com—link in bio! #MysteryTok #AncientVibes #FantasySerial #SecretUncovered #TikTokReads  
+	Character Count: 200  
 
-#### 5. Bluesky (300 characters)  
-**Hashtags:** #AncientQuest #MysteryReads #Fantasy2025 #LostSecrets #SerialFans  
-**Post:** Unraveling ancient mysteries—cursed ruins, epic lore. My fantasy serials unearth the unknown. Subscribe to stack.samliebl.com for tales that thrill! #AncientQuest #MysteryReads #Fantasy2025 #LostSecrets #SerialFans  
-**Character Count:** 209  
+5. Bluesky (300 characters)  
+	Hashtags: #AncientQuest #MysteryReads #Fantasy2025 #LostSecrets #SerialFans  
+	Post: Unraveling ancient mysteries—cursed ruins, epic lore. My fantasy serials unearth the unknown. Subscribe to stack.samliebl.com for tales that thrill! #AncientQuest #MysteryReads #Fantasy2025 #LostSecrets #SerialFans  
+	Character Count: 209  
 
-#### 6. X (280 characters)  
-**Hashtags:** #MysteryLit #AncientFinds #FantasyNow #SecretLore #ReadSerials  
-**Post:** Unraveling ancient mysteries—lost relics, epic twists. My serials unearth fantasy gold. Subscribe to stack.samliebl.com for stories that decode history! #MysteryLit #AncientFinds #FantasyNow #SecretLore #ReadSerials  
-**Character Count:** 202  
+6. X (280 characters)  
+	Hashtags: #MysteryLit #AncientFinds #FantasyNow #SecretLore #ReadSerials  
+	Post: Unraveling ancient mysteries—lost relics, epic twists. My serials unearth fantasy gold. Subscribe to stack.samliebl.com for stories that decode history! #MysteryLit #AncientFinds #FantasyNow #SecretLore #ReadSerials  
+	Character Count: 202  
 
-#### 7. YouTube (5,000 characters, 100 for titles)  
-**Hashtags:** #AncientMysterySeries #FantasyTube #MysteryReads25 #EpicLoreNow #SerialQuest  
-**Title:** Unravel Ancient Mysteries—Subscribe to stack.samliebl.com!  
-**Description:** Unraveling ancient mysteries drives my fantasy serials—lost kingdoms, cryptic clues, epic twists. For fans of deep lore, subscribe to stack.samliebl.com for stories that reveal the past—join now! #AncientMysterySeries #FantasyTube #MysteryReads25 #EpicLoreNow #SerialQuest  
-**Character Counts:** Title: 58 | Description: 233  
+7. YouTube (5,000 characters, 100 for titles)  
+	Hashtags: #AncientMysterySeries #FantasyTube #MysteryReads25 #EpicLoreNow #SerialQuest  
+	Title: Unravel Ancient Mysteries—Subscribe to stack.samliebl.com!  
+	Description: Unraveling ancient mysteries drives my fantasy serials—lost kingdoms, cryptic clues, epic twists. For fans of deep lore, subscribe to stack.samliebl.com for stories that reveal the past—join now! #AncientMysterySeries #FantasyTube #MysteryReads25 #EpicLoreNow #SerialQuest  
+	Character Counts: Title: 58 | Description: 233  
 
-#### 8. LinkedIn (3,000 characters)  
-**Hashtags:** #BusinessStorytelling #CreativeGrowth #MysteryStrategy #Leadership2025 #CareerBoost  
-**Post:** Unraveling ancient mysteries isn’t just fantasy—it’s a business lesson. Decoding the past sharpens problem-solving and storytelling, skills that win clients and grow ventures. My serials at stack.samliebl.com inspire pros to craft compelling narratives—subscribe to elevate your strategy! #BusinessStorytelling #CreativeGrowth #MysteryStrategy #Leadership2025 #CareerBoost  
-**Character Count:** 328  
+8. LinkedIn (3,000 characters)  
+	Hashtags: #BusinessStorytelling #CreativeGrowth #MysteryStrategy #Leadership2025 #CareerBoost  
+	Post: Unraveling ancient mysteries isn’t just fantasy—it’s a business lesson. Decoding the past sharpens problem-solving and storytelling, skills that win clients and grow ventures. My serials at stack.samliebl.com inspire pros to craft compelling narratives—subscribe to elevate your strategy! #BusinessStorytelling #CreativeGrowth #MysteryStrategy #Leadership2025 #CareerBoost  
+	Character Count: 328  
 
 ---
 
-### How It Works
-- **Hashtag Research:** For "unraveling ancient mysteries," I simulated a deep dive into current social media trends (as of March 21, 2025), pulling hashtags like #AncientSecrets2025, #MysteryTok, and #BusinessStorytelling based on relevance, engagement, and recency. In practice, this would involve real-time scraping of platforms like X and TikTok for the latest high-performers.  
-- **Flexibility:** Input any marketing message (e.g., "epic battles of wit"), and I’ll research fresh hashtags and tailor posts accordingly.  
-- **Next Steps:** Give me a new message, and I’ll generate a full set with dynamically sourced hashtags. What would you like to try?
+How It Works
+Hashtag Research: For "unraveling ancient mysteries," I simulated a deep dive into current social media trends (as of March 21, 2025), pulling hashtags like #AncientSecrets2025, #MysteryTok, and #BusinessStorytelling based on relevance, engagement, and recency. In practice, this would involve real-time scraping of platforms like X and TikTok for the latest high-performers.
+Flexibility: Input any marketing message (e.g., "epic battles of wit"), and I’ll research fresh hashtags and tailor posts accordingly.
+Next Steps: Give me a new message, and I’ll generate a full set with dynamically sourced hashtags. What would you like to try?
