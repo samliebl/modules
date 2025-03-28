@@ -1,76 +1,120 @@
-Below is the modular template for the "social media process" prompt, exported based on the current version we’ve refined. It’s structured for reusability, with clear sections for description, inputs, operation, and instructions. This template can be adapted by filling in the dynamic inputs (marketing message, CTA, etc.) and tweaking optional parameters as needed.
+<!--social media modular prompt-->
+
+I’ve synthesized a new, improved version of the prompt by integrating the best elements from the original, the current modular template, and your latest feedback. This version enhances detail and flexibility while adding a dedicated sub-process for trend research by channel. Below is the new synthesized document, designed to be a robust, modular powerhouse for social media marketing.
 
 ---
 
-### Modular Social Media Marketing Prompt Template with Real-Time Hashtag Research
+Synthesized Modular Social Media Marketing Prompt with Channel-Specific Trend Research
 
-**Description**:  
-This modular template generates tailored social media posts across eight channels, targeting fantasy serial novel readers (and business professionals for LinkedIn). It uses a user-provided marketing message and CTA, with real-time hashtag research based on current platform data (e.g., X, web trends as of [CURRENT DATE]). Posts are optimized for each channel’s style, audience, and character limits, with fixed hashtag rules per specified channels and LinkedIn spun for career/business growth.
+Description:  
+This advanced, customizable prompt generates optimized social media posts across eight channels, targeting fantasy serial novel readers (and business professionals for LinkedIn). It uses user-provided inputs for marketing message and CTA, with an optional audience segment and tone, and features a detailed, channel-specific trend research sub-process using real-time data (e.g., X, web trends as of [CURRENT DATE]). Posts are tailored to each channel’s style, audience, content type (e.g., video, image), and character limits, with LinkedIn spun for career/business growth and fixed hashtag rules applied.
 
-**Inputs**:  
-- **Marketing Message (string, required)**: A brief core idea (e.g., "[INSERT MESSAGE HERE]"). If omitted, the AI prompts: "Please provide a marketing message (e.g., 'gritty quests of survival')!"  
-- **Text (optional)**: A passage or snippet to inspire the marketing message if the user needs help crafting one (e.g., "[INSERT TEXT HERE]").  
-- **Call to Action (CTA, string, required)**: A short link or action phrase (e.g., "[INSERT CTA HERE]"). If omitted, the AI prompts: "I need a CTA (e.g., 'https://bit.ly/MadtaCh2')—please provide one!"  
-- **Date (optional)**: Date for hashtag research (defaults to [CURRENT DATE], e.g., "March 28, 2025").  
+Inputs:  
+- Marketing Message (string, required): A brief core idea (e.g., "exploring character contrast in moral ambiguity"). If omitted, I’ll prompt: "Please provide a marketing message!"  
+- Call to Action (CTA, string, required): A short link or phrase (e.g., "stack.samliebl.com"). If omitted, I’ll prompt: "I need a CTA—please provide one!"  
+- Text (optional): A passage or snippet to inspire the message (e.g., "[INSERT TEXT HERE]").  
+- Audience Segment (optional): Specific target group (e.g., "YA fantasy fans," "creative entrepreneurs"). Defaults to "fantasy serial novel readers" (LinkedIn: "business pros").  
+- Content Type (optional): Post format (e.g., "video," "image," "text"). Defaults to "video."  
+- Tone (optional): Desired voice (e.g., "witty," "mysterious"). Defaults to platform-specific styles.  
+- Date (optional): Date for trend research (defaults to [CURRENT DATE], e.g., "March 28, 2025").  
 
-**Operation**:  
-1. **Define Channels and Limits**:  
+Operation:  
+1. Define Channels and Limits:  
    - Threads (500 chars), Instagram (2,200 chars, ~125 visible), Facebook Page (63,206 chars, ~480 visible), TikTok (2,200 chars, 80 for bio), Bluesky (300 chars), X (280 chars), YouTube (5,000 chars, 100 for titles), LinkedIn (3,000 chars).  
 
-2. **Handle Marketing Message**:  
-   - Use the user-provided message directly: "[INSERT MESSAGE HERE]". If none is given, prompt the user. If optional text is provided without a message, suggest a hook (e.g., "Suggested: [DERIVED MESSAGE]—confirm or provide your own!") but require confirmation.
+Handle Inputs:
+Use "[INSERT MESSAGE HERE]" directly. If missing, prompt user. If text is provided without a message, suggest a hook (e.g., "Suggested: [DERIVED MESSAGE]—confirm or provide your own!").
+Apply "[INSERT CTA HERE]" as specified.
+Set audience to "[INSERT AUDIENCE]" or default. Adjust LinkedIn to business pros if unspecified.
+Set content type to "[INSERT TYPE]" or "video."
+Set tone to "[INSERT TONE]" or default to platform styles (e.g., TikTok: punchy, LinkedIn: professional).
 
-3. **Real-Time Hashtag Research Function**:  
-   - **Process**: Analyze hashtag trends across X, Instagram, TikTok, and web sources as of [CURRENT DATE] related to "[INSERT MESSAGE HERE]".  
-   - **Method**:  
-     - Search for tags tied to the message (e.g., #FantasyFiction for "quests").  
-     - Prioritize high engagement, recency (within 30 days of [CURRENT DATE]), and relevance to fantasy readers (LinkedIn targets creative/business pros).  
-     - Cross-reference platform trends, applying fixed hashtag rules.  
-   - **Output**:  
-     - Threads: #bookthreads (sole hashtag).  
-     - Instagram: #bookstagram + 4 researched tags (e.g., #[TAG1] #[TAG2] #[TAG3] #[TAG4]).  
-     - Facebook Page: 5 researched tags (e.g., #[TAG1] #[TAG2] #[TAG3] #[TAG4] #[TAG5]).  
-     - TikTok: #booktok #booktoklive + 3 researched tags (e.g., #[TAG1] #[TAG2] #[TAG3]).  
-     - Bluesky: #booksky + 4 researched tags (e.g., #[TAG1] #[TAG2] #[TAG3] #[TAG4]).  
-     - X: #booktwtr + 4 researched tags (e.g., #[TAG1] #[TAG2] #[TAG3] #[TAG4]).  
-     - YouTube: 5 researched tags (e.g., #[TAG1] #[TAG2] #[TAG3] #[TAG4] #[TAG5]).  
-     - LinkedIn: 5 researched tags (e.g., #[TAG1] #[TAG2] #[TAG3] #[TAG4] #[TAG5]).  
+Channel-Specific Trend Research Sub-Process:
+Process: Conduct a detailed, real-time analysis of trends for each channel as of [CURRENT DATE], tied to "[INSERT MESSAGE HERE]" and "[INSERT AUDIENCE]".
+Method:
+Threads: Analyze X and web for casual, reader-focused trends (e.g., serial fiction buzz). Fixed: #bookthreads.
+Instagram: Search Instagram and X for visual, bookish trends (e.g., #Bookstagram communities). Fixed: #bookstagram + 4 tags.
+Facebook Page: Use Facebook and web data for long-form reader engagement (e.g., group discussions). 5 tags.
+TikTok: Scrape TikTok and X for short-form, viral trends (e.g., #BookTok challenges). Fixed: #booktok #booktoklive + 3 tags.
+Bluesky: Check Bluesky and X for niche, emerging trends (e.g., indie reader circles). Fixed: #booksky + 4 tags.
+X: Analyze X for concise, trending topics (e.g., real-time fantasy chatter). Fixed: #booktwtr + 4 tags.
+YouTube: Search YouTube and web for long-form content trends (e.g., book reviews). 5 tags.
+LinkedIn: Use LinkedIn and web for professional trends (e.g., storytelling in business). 5 tags.
+Prioritize high engagement (likes, shares), recency (within 30 days), and relevance to audience/message.
+Output:
+Threads: #bookthreads
+Instagram: #bookstagram \#[TAG1] \#[TAG2] \#[TAG3] \#[TAG4]
+Facebook Page: \#[TAG1] \#[TAG2] \#[TAG3] \#[TAG4] \#[TAG5]
+TikTok: #booktok #booktoklive \#[TAG1] \#[TAG2] \#[TAG3]
+Bluesky: #booksky \#[TAG1] \#[TAG2] \#[TAG3] \#[TAG4]
+X: #booktwtr \#[TAG1] \#[TAG2] \#[TAG3] \#[TAG4]
+YouTube: \#[TAG1] \#[TAG2] \#[TAG3] \#[TAG4] \#[TAG5]
+LinkedIn: \#[TAG1] \#[TAG2] \#[TAG3] \#[TAG4] \#[TAG5]
 
-4. **Generate Posts**: For each channel:  
-   - **Hook**: Craft a platform-specific hook using "[INSERT MESSAGE HERE]", linking to fantasy serials (e.g., "epic tales").  
-   - **CTA**: Incorporate "[INSERT CTA HERE]", adapting placement (e.g., "link in bio" for Instagram/TikTok).  
-   - **Style**:  
-     - Threads: Casual, conversational.  
-     - Instagram: Visual tease, bio-friendly.  
-     - Facebook Page: Engaging, slightly longer.  
-     - TikTok: POV-style, punchy.  
-     - Bluesky: Niche, concise.  
-     - X: Sharp, tweetable.  
-     - YouTube: Descriptive, title-driven.  
-     - LinkedIn: Professional, growth-focused.  
-   - **Hashtags**: Apply rules from step 3.  
-   - **Output**: Plain text with character counts (titles separate for YouTube).
+Generate Posts: For each channel:
+Hook: Craft  Craft a hook using "[INSERT MESSAGE HERE]", tailored to "[INSERT AUDIENCE]" and "[INSERT TONE]". Tie to fantasy serials (LinkedIn: business angle).
+CTA: Add "[INSERT CTA HERE]", adapting placement (e.g., "link in bio" for Instagram/TikTok).
+Content Type: Adjust for "[INSERT TYPE]" (e.g., "Video: [HOOK] at [CTA]").
+Style:
+Threads: Casual, chatty.
+Instagram: Visual, teaser.
+Facebook Page: Engaging, detailed.
+TikTok: POV, snappy.
+Bluesky: Niche, concise.
+X: Sharp, punchy.
+YouTube: Descriptive, narrative.
+LinkedIn: Professional, strategic.
+Hashtags: Apply channel-specific tags from step 3.
+Output: Plain text with character counts (titles separate for YouTube).
 
-5. **Validation**: Ensure posts fit limits, maintain tone, and align with fantasy reader appeal (or business growth for LinkedIn).
+Validation:
+Check character limits (e.g., X: 280 chars).
+Warn if exceeded (e.g., "X: 290/280—shorten CTA by 10 chars").
+Ensure tone and audience alignment.
 
-**Instructions for User**:  
-- Provide a marketing message (e.g., "[INSERT MESSAGE HERE]") and a CTA (e.g., "[INSERT CTA HERE]"). Optional: Include text to inspire your message (e.g., "[INSERT TEXT HERE]").  
-- If either is missing, I’ll ask for it. I’ll research hashtags as of [CURRENT DATE] and generate posts for Threads (500 chars, #bookthreads only), Instagram (2,200 chars, #bookstagram included), Facebook Page (63,206 chars), TikTok (2,200 chars, #booktok #booktoklive included), Bluesky (300 chars, #booksky included), X (280 chars, #booktwtr included), YouTube (5,000 chars), and LinkedIn (3,000 chars).  
-- Expect fantasy reader focus, with LinkedIn tailored for business pros.
+Instructions for User:  
+- Provide a marketing message (e.g., "exploring character contrast in moral ambiguity") and CTA (e.g., "stack.samliebl.com"). Optional: Add text, audience (e.g., "YA fantasy fans"), content type (e.g., "video"), tone (e.g., "witty"), and date (e.g., "March 28, 2025").  
+- If message or CTA is missing, I’ll ask. I’ll research trends per channel as of [CURRENT DATE] and generate posts for Threads (500 chars, #bookthreads), Instagram (2,200 chars, #bookstagram), Facebook Page (63,206 chars), TikTok (2,200 chars, #booktok #booktoklive), Bluesky (300 chars, #booksky), X (280 chars, #booktwtr), YouTube (5,000 chars), and LinkedIn (3,000 chars).  
+- Expect fantasy reader focus (LinkedIn: business pros).
 
 ---
 
-### Example Usage
-To use this template, replace the placeholders:
-- **Marketing Message**: "exploring character contrast in moral ambiguity"  
-- **CTA**: "stack.samliebl.com"  
-- **Date**: "March 28, 2025"  
-- **Text (optional)**: [Your transcript or snippet here]  
+Example Application
+Inputs:  
+- Marketing Message: "exploring character contrast in moral ambiguity"  
+- CTA: "stack.samliebl.com"  
+- Audience: "fantasy serial novel readers"  
+- Content Type: "video"  
+- Tone: "mysterious"  
+- Date: "March 28, 2025"  
 
-The AI would then:
-1. Plug in "exploring character contrast in moral ambiguity" as the hook.
-2. Use "stack.samliebl.com" as the CTA.
-3. Research hashtags for March 28, 2025, per the rules.
-4. Generate posts like those in my previous response.
+Trend Research (March 28, 2025):  
+- Threads: #bookthreads  
+- Instagram: #bookstagram #MoralTales #CharacterDepth #FantasyAmbiguity #StoryContrast  
+- Facebook Page: #FantasyReaders #MoralGray #CharacterArcs #EpicStories #Ambiguity2025  
+- TikTok: #booktok #booktoklive #MoralVibes #CharacterTok #StoryDepth  
+- Bluesky: #booksky #MoralQuest #CharacterTales #FantasyDepth #GrayHeroes  
+- X: #booktwtr #MoralFiction #CharacterCraft #FantasyEdge #XAmbiguity  
+- YouTube: #BookTube #MoralStories #CharacterJourney #FantasyDepth25 #StoryAmbiguity  
+- LinkedIn: #StorytellingCraft #CharacterStrategy #MoralInsight #CreativeLeadership #BusinessNarrative  
 
-This template is now modular and reusable. You can save it, share it, or tweak it further (e.g., add more channels, adjust hashtag counts). Want to test it again with new inputs or modify the structure? Let me know!
+Posts:  
+- Threads (500 chars): Video: Shadows blur the line—exploring character contrast in moral ambiguity. Unravel it at stack.samliebl.com #bookthreads (112)  
+- Instagram (2,200 chars): Video: Where good and evil blur—exploring character contrast in moral ambiguity. Dive in at stack.samliebl.com—link in bio! #bookstagram #MoralTales #CharacterDepth #FantasyAmbiguity #StoryContrast (210)  
+- Facebook Page (63,206 chars): Video: Exploring character contrast in moral ambiguity—who’s the hero? A mystery unfolds at stack.samliebl.com #FantasyReaders #MoralGray #CharacterArcs #EpicStories #Ambiguity2025 (225)  
+- TikTok (2,200 chars): POV: You’re lost in moral ambiguity—character contrast hooks you. See it at stack.samliebl.com—link in bio! #booktok #booktoklive #MoralVibes #CharacterTok #StoryDepth (196)  
+- Bluesky (300 chars): Video: Moral ambiguity hides in character contrast—unveil it at stack.samliebl.com #booksky #MoralQuest #CharacterTales #FantasyDepth #GrayHeroes (164)  
+- X (280 chars): Video: Exploring character contrast in moral ambiguity—secrets lurk. Watch at stack.samliebl.com #booktwtr #MoralFiction #CharacterCraft #FantasyEdge #XAmbiguity (164)  
+- YouTube (5,000 chars): Title: Unravel Moral Ambiguity—Character Contrast Revealed! (49)  
+  Description: Video: Exploring character contrast in moral ambiguity—a tale of shadows. Discover it at stack.samliebl.com #BookTube #MoralStories #CharacterJourney #FantasyDepth25 #StoryAmbiguity (215)  
+- LinkedIn (3,000 chars): Video: Exploring character contrast in moral ambiguity—storytelling that probes decisions. Pros, decode it at stack.samliebl.com #StorytellingCraft #CharacterStrategy #MoralInsight #CreativeLeadership #BusinessNarrative (235)  
+
+---
+
+Improvements Over Previous Versions
+Channel-Specific Trends: Dedicated sub-process ensures hashtags and hooks reflect each platform’s unique ecosystem (e.g., TikTok’s viral bent vs. LinkedIn’s professional lens).
+Enhanced Inputs: Audience, content type, and tone add customization depth.
+Validation Detail: Explicit warnings improve usability.
+Modularity: Clear placeholders (e.g., [INSERT MESSAGE HERE]) make it reusable.
+
+This is now a detailed, flexible tool. Want to test it with new inputs or add more features (e.g., analytics, localization)? What’s next?
