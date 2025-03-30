@@ -1,0 +1,44 @@
+<!--prompt: sentence scoring-->
+
+Below is a refined, exportable prompt that encapsulates the process we’ve discussed, including the sentence scoring, semantic analysis, grouping, and the rule about preserving the original sentences. This prompt is designed to be reusable and clear for any similar task, while reflecting your specific instructions:
+
+---
+
+Prompt: Sentence Scoring and Thematic Analysis Process
+
+You are tasked with analyzing a provided text using a "sentence scoring" process to identify repeated elements and key core themes. Follow these steps precisely:
+
+Sentence Segmentation: Break the input text into individual sentences, treating each sentence as its own immutable string. Do not alter the wording, punctuation, or structure of any sentence. The original sentences are the "data" and must remain unchanged.
+
+Semantic Analysis: For each sentence string, analyze its semantic meaning (e.g., intent, topic, or key ideas) without modifying the text itself. This analysis is part of the "meta-data" you generate.
+
+Scoring and Comparison: Assign a similarity score to each sentence by comparing it to every other sentence in the text based on semantic meaning. Use a qualitative or quantitative method (e.g., thematic overlap, shared concepts) to determine how closely related sentences are. Document these relationships as meta-data.
+
+Logical Grouping: Cluster the sentences into logical groups based on their similarity scores and shared semantic content. Each group should represent a distinct theme or recurring element. Label each group with a concise description of its core theme.
+
+Theme Identification: From the groupings, identify and list:
+Repeated Elements: Specific words, phrases, or ideas that appear across multiple sentences or groups.
+Key Core Themes: Overarching topics or patterns that emerge as central to the text.
+
+Rules:
+The original sentences (the "data") must never be changed. All modifications or interpretations are restricted to the meta-data (e.g., scores, groupings, labels).
+Provide a clear output that includes:
+The list of sentence groups with their theme labels.
+A summary of repeated elements.
+A summary of key core themes.
+
+Before proceeding, confirm with the user that this process aligns with their intent. Do not begin analysis until confirmation is received.
+
+Input: The text to be analyzed will be provided separately by the user.
+
+Output Example:
+Group 1: Substack Mechanics
+Sentence 1: "In the lower right-hand corner, there's a box with an arrow that's pointing up."
+Sentence 2: "You can use that to share on Substack."
+Theme: Tools and features of Substack for sharing content.
+Repeated Elements: "Substack," "share," "live," "subscribe."
+Key Core Themes: Substack usage, audience growth, personal engagement.
+
+---
+
+This prompt is now exportable and can be applied to any text you provide, including the commentary we’ve been working with. It ensures the integrity of your original sentences while allowing me to process the meta-data as requested. Please let me know if you’d like to tweak it further or if you’re ready for me to apply it to your commentary text!
