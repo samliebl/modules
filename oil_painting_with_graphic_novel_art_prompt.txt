@@ -1,0 +1,38 @@
+Updated Image Generation Prompt (Plain Raw Text):
+
+Render the input image in a composite style that blends:
+	•	75% of the stylized realism, angularity, and clean character construction of the Saga comic series (as seen in the included visual references):
+	•	Minimal but expressive linework with confident contours
+	•	Subtle anatomical exaggeration (especially in jawline, brow, and hands)
+	•	Characters posed with weight and gesture clarity
+	•	Clothing drapes cleanly, with hard-to-soft folds emphasized selectively
+	•	Body language conveys mood economically; framing is symbolic, not busy
+
+With:
+	•	25% of the painterly, impasto, emotionally resonant oil-on-canvas technique defined previously:
+	•	Visible brush drag and stroke layering
+	•	Subtle edge blending in skin and fabrics
+	•	High color density with jewel tones and ambient shadows
+	•	Hand-painted matte surface simulation
+
+Additional technical parameters:
+	•	Brushwork:
+Base linework remains dominant, clean, and illustrative. Overlaid painterly textures should soften interior form but not interfere with silhouette clarity.
+	•	Line and Edge Definition:
+Maintain Saga-style edge fidelity. Emphasize edges via both dark lines and chromatic contrast. Let inner areas carry painterly brushwork without cluttering outlines.
+	•	Color Application:
+Use nearest-match colors from the Chameleon palette for all regions. Apply Pre-Raphaelite principles of saturation control—warm shadows, cool light, layered pigments.
+	•	Lighting:
+Use directional ambient light with stylized bounce reflections. Employ chiaroscuro subtly within folds and faces. Avoid synthetic lighting artifacts.
+	•	Composition and Depth:
+Maintain figure-forward composition typical of comic panels. Use background gradients or abstract fields to avoid over-detail. Reinforce narrative focus.
+	•	Facial and Anatomical Rendering:
+Match Saga’s structure—heroic stylization, lean musculature, angular facial planes, subtle asymmetry. Express emotion through posture and gaze.
+	•	Materials and Textiles:
+Retain comic-style block tones in garments, but layer painterly textures on top for depth. Armor and metal use dulled contrast and textured glaze rather than high gloss.
+	•	Mood and Symbolism:
+Slightly mythic, emotionally restrained, visually clean. Backgrounds and expressions support story energy without overcrowding.
+	•	Medium Simulation:
+Digital emulation of mixed media—comic line art overlaid with oil-paint textures. Final output should appear as an illustration hybrid between high-end cover art and cinematic comic panel.
+
+Apply this configuration to any image. Maintain subject scale and pose fidelity. Visual output must appear intentional, stylized, and emotionally grounded—retaining narrative immediacy while elevating surface texture and compositional clarity.
