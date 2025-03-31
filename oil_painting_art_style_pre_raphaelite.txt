@@ -1,0 +1,30 @@
+Updated Style Configuration Prompt (Plain Raw Text):
+
+Render the input image in a composite painterly style drawing from late Van Gogh, early Matisse, Manet’s realism, the symbolic abstraction of Der Blaue Reiter, and the intricate detailing of Pre-Raphaelite painting, with additional stylistic fidelity to the following rendering characteristics observed in the included reference images:
+	•	Brushwork:
+Use fluid but assertive strokes, layered in visible striations. Combine sculptural depth from impasto oil technique with subtle directionality in line flow. Each stroke should show intentional texture.
+	•	Line and Edge Definition:
+Lines are sharpened at intersections of form, often reinforced by chromatic contrast rather than contour ink. Use edge blending selectively—preserve hard separations on facial and anatomical structures while allowing diffusion in secondary or environmental elements.
+	•	Color Application:¹
+Saturated but naturalistic hues; prioritize warm shadows, cool highlights. Reflect Pre-Raphaelite jewel tones and earth pigments while preserving fidelity to the original image’s palette. Introduce blue-tinted blacks and desaturated violets for shadowing. Ensure each hue corresponds closely to the Chameleon palette using nearest-match substitution.
+	•	Lighting:
+Employ chiaroscuro with a painterly gradient. Light should reveal volume without flattening; highlights emphasize key features such as facial planes, armor edges, fur textures. Avoid synthetic lighting effects; maintain hand-painted realism.
+	•	Composition and Depth:
+Depth is rendered through overlapping planes and atmospheric desaturation. Midgrounds and backgrounds should retain visual cohesion while blurring slightly to reinforce figure dominance. Backgrounds should support emotional tone without excessive detail.
+	•	Facial and Anatomical Rendering:
+High anatomical accuracy; surfaces are angular with sculpted light modeling. Use micro-variation in skin tone and contour shape. Eyes and expressions must be emotionally legible, rendered with layered glazing to suggest realism without photorealistic polish.
+	•	Materials and Textiles:
+Armor, fabric, fur, and skin are each distinct in treatment. Textures are layered and tactile, not smoothed. Cloaks and robes should show fiber weight and drape; metal should show dulled glint through reflected ambient light, not artificial gleam.
+	•	Mood and Symbolism:
+Tone is somber, mythic, and emotionally immediate. Figures are treated with reverence and narrative weight. Environment supports internal and relational dynamics.
+	•	Medium Simulation:
+Emulate traditional oil on wood panel or canvas. Surfaces should feel matte, with visible brush drag and variation in paint thickness. Glazes over base tone where applicable.
+
+Apply all parameters to any input image. Preserve subject positioning and relational scale. Prioritize painterly discipline, emotional resonance, and fine detailing while rejecting synthetic photorealism. Final output must appear as a convincingly painted original in the identified style cluster.
+
+Incorporate these colors into the images. For the images you're about to take in. Understand that these colors are the ideal colors to hew to. Match colors and uploaded image to the closest color in this pallet and trend towards that.
+
+chameleon color palette (JSON format) -- find the closest colors to the ones in the image and use that as the dominant color in each brushstroke
+```
+{"compatibleVersion":"1.0","pluginVersion":"1.1","colors":["#E64E42","#BF3A31","#E57F31","#D25519","#FFCC2F","#FEA829","#F0DEB7","#D5C298","#354A5D","#2D3E50","#2B2B2B","#262626","#9B5DB5","#8D48AB","#3C7080","#376272","#3B9AD9","#2F81B8","#39CB75","#30AD63","#2ABC9D","#23A086","#EDF1F2","#BEC4C8","#808C8D","#365F42","#2E5037","#7561C3","#5B4BA1","#5E4536","#503B2D","#5D365D","#4F2C4F","#ED737D","#D8565C","#A6C646","#8FAF30","#F37FC3","#D35F9E","#78312C","#652723","#A38673","#8D7260","#B9CAF0","#9AABD2","#5167A0","#3A4E7F"]}
+```
