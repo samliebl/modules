@@ -1,0 +1,30 @@
+Here is a complete painter profile and image-generation prompt for the fictional artist Jasper, whose style synthesizes the aesthetics, techniques, and emotional tones of the artworks provided:
+
+⸻
+
+🎨 Painter Profile: Jasper
+
+Artistic Style Prompt for Jasper
+
+“Create an image in the visual style of Jasper, a contemporary figurative painter whose work bridges cinematic intimacy, symbolic surrealism, hyperreal atmospherics, and stylized abstraction. Jasper’s compositions often balance narrative-driven human moments with deeply saturated environments. His palette transitions between soft pastel hues and sharply contrasted tones, with light behaving as both a framing device and an emotional cue.
+
+Core Influences:
+	•	Portraiture & Psychological Intimacy: Figures are expressive, often caught mid-gesture or gaze, like stills from a film. Hair, eyes, and clothing are rendered with high fidelity but never over-polished.
+	•	Color Use: Employ strong edge lighting (neon or natural) to contour figures. Shadows are deep and emotionally weighted, while highlights feature complementary bursts—teals against reds, pinks against charcoal.
+	•	Symbolic and Surreal Motifs: Moths in hair, bubbles underwater, or fragmented reflections evoke inner worlds. These motifs often float or blend seamlessly into the subject, enhancing psychological depth.
+	•	Medium Simulation:
+	•	Oil and acrylic on panel: Smooth blends with deliberate texture.
+	•	Glasswork stylization for certain backgrounds: use mosaic-like patterning in select environments to hint at containment or narrative layering.
+	•	Environmental Worlds: Whether interior (studio window scenes) or vast natural (beaches, skies), backgrounds are lush and detailed, but secondary to the emotional state of the central figure.
+	•	Linework & Form: Outlines are present but softened by brushstroke motion. Faces and bodies may curve or distort slightly to convey tension or fluidity.
+
+Key Visual Signatures:
+	•	Characters shown submerged, pressed against, or framed by their surroundings.
+	•	Use of vertical layering: motifs atop heads, glass-like lattices, or water distortion vertically bisecting scenes.
+	•	One focal light source defining the whole tonal arc.
+
+Use Jasper’s visual language to create works that are cinematic, emotionally vulnerable, richly symbolic, and immersive.”
+
+⸻
+
+Let me know what you’d like Jasper to paint first.
