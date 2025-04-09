@@ -1,0 +1,105 @@
+Below is a complete prompt designed for an image AI to generate realistic oil painting portraits in a classical European style, adaptable to different subjects. The prompt includes the original warm, muted color palette and two alternative color palette submodules: "Solarized" and "Chameleon." The Chameleon palette has been incorporated as requested, with the ability to be invoked and function identically to the Solarized palette.
+
+This prompt allows you to generate portraits with varying subjects while preserving the detailed, realistic oil painting style. The addition of the Chameleon color palette submodule, as requested, provides an alternative color scheme that functions identically to the Solarized palette, giving you creative flexibility in your image generation.
+---
+
+## Base Prompt
+
+"Create a realistic oil painting portrait in a classical European style. The subject is **[insert subject here]**, depicted from the chest up against an abstract, earthy background that complements the subject. Use a warm, muted color palette dominated by browns, beiges, and golds. Render the face with high detail, capturing realistic skin textures, eyes, and facial features. Use broader, more expressive brushstrokes for the hair and clothing, which should be appropriate for the subject's character or time period. The lighting should be soft and frontal, enhancing the three-dimensionality of the subject. The overall mood should be timeless and contemplative."
+
+---
+
+## Color Palette Submodules
+
+You can optionally invoke one of the following color palette submodules to modify the color scheme of the generated image. When a submodule is invoked, the colors in the image should shift toward the specified palette while maintaining the realistic and classical aesthetic of the portrait. If no submodule is invoked, the default warm, muted color palette (browns, beiges, golds) from the base prompt will be used.
+
+### 1. Solarized Color Palette Submodule
+
+"Apply the **solarized color palette** submodule, which includes the following colors:  
+- **base03**: #002b36  
+- **base02**: #073642  
+- **base01**: #586e75  
+- **base00**: #657b83  
+- **base0**: #839496  
+- **base1**: #93a1a1  
+- **base2**: #eee8d5  
+- **base3**: #fdf6e3  
+- **yellow**: #b58900  
+- **orange**: #cb4b16  
+- **red**: #dc322f  
+- **magenta**: #d33682  
+- **violet**: #6c71c4  
+- **blue**: #268bd2  
+- **cyan**: #2aa198  
+- **green**: #859900  
+
+The colors in the image should be derived from these solarized colors or interpolations between them, ensuring the final image reflects the solarized color scheme while preserving the realistic and classical aesthetic of the portrait."
+
+### 2. Chameleon Color Palette Submodule
+
+"Apply the **chameleon color palette** submodule, which includes the following colors:  
+- #E64E42 – Bright Red  
+- #BF3A31 – Deep Brick  
+- #E57F31 – Burnt Orange  
+- #D25519 – Rust Orange  
+- #FFCC2F – Golden Yellow  
+- #FEA829 – Amber  
+- #F0DEB7 – Pale Sand  
+- #D5C298 – Warm Taupe  
+- #354A5D – Slate Blue  
+- #2D3E50 – Midnight Navy  
+- #2B2B2B – Charcoal  
+- #262626 – Blackened Ash  
+- #9B5DB5 – Lavender Purple  
+- #8D48AB – Royal Violet  
+- #3C7080 – Dusty Teal  
+- #376272 – Ocean Slate  
+- #3B9AD9 – Sky Blue  
+- #2F81B8 – Cerulean  
+- #39CB75 – Spring Green  
+- #30AD63 – Leaf Green  
+- #2ABC9D – Aqua Jade  
+- #23A086 – Forest Teal  
+- #EDF1F2 – Frost White  
+- #BEC4C8 – Soft Gray  
+- #808C8D – Weathered Stone  
+- #365F42 – Evergreen  
+- #2E5037 – Moss  
+- #7561C3 – Soft Violet  
+- #5B4BA1 – Indigo  
+- #5E4536 – Earth Brown  
+- #503B2D – Mahogany  
+- #5D365D – Plum  
+- #4F2C4F – Deep Wine  
+- #ED737D – Coral Rose  
+- #D8565C – Crimson  
+- #A6C646 – Lime Green  
+- #8FAF30 – Olive  
+- #F37FC3 – Pink Rose  
+- #D35F9E – Orchid  
+- #78312C – Brick  
+- #652723 – Maroon  
+- #A38673 – Dust  
+- #8D7260 – Clay  
+- #B9CAF0 – Powder Blue  
+- #9AABD2 – Periwinkle  
+- #5167A0 – Denim  
+- #3A4E7F – Ink Blue  
+
+The colors in the image should be derived from these chameleon colors or interpolations between them, ensuring the final image reflects the chameleon color scheme while preserving the realistic and classical aesthetic of the portrait."
+
+---
+
+## How to Use
+
+1. **Base Prompt Usage**: Replace **[insert subject here]** with your desired subject (e.g., "a medieval knight," "an elderly woman," "a mythical creature").  
+   - Example: "Create a realistic oil painting portrait in a classical European style. The subject is a medieval knight, depicted from the chest up against an abstract, earthy background that complements the subject..."
+
+2. **Invoking a Color Palette**: To use an alternative color palette, append the corresponding submodule text to the base prompt.  
+   - **Solarized Example**: Add the Solarized submodule text after the base prompt to shift the colors toward the solarized palette.  
+   - **Chameleon Example**: Add the Chameleon submodule text after the base prompt to shift the colors toward the chameleon palette.  
+   - If no submodule is added, the default warm, muted palette will apply.
+
+3. **Flexibility**: The prompt ensures the classical European oil painting style is maintained across different subjects. The background and clothing will adapt to the subject’s character or time period, and the color palette can be customized via the submodules.
+
+---
