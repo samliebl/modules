@@ -1,0 +1,73 @@
+% twilight tonalist
+
+Got it — you want a modular style framework that can be applied to any uploaded image, transforming it into the twilight-tonalist oil painting style of the sky image above, using the Chameleon color palette as the adaptive color basis. Here’s the modular definition, ready for machine parsing and cross-application:
+
+⸻
+
+✅ STYLE MODULE: “Twilight Tonalist Atmospheric Render”
+
+Purpose: Apply this consistent style to any input image — portrait, landscape, architecture, or object — by reinterpreting the subject through the tonal, luminous, and moody characteristics described.
+
+⸻
+
+Brushwork & Rendering Technique
+
+Medium Simulation: Oil on canvas
+Texture: Soft-blended skies, matte finish, low impasto
+Foreground Detail: Linear, fine-brushed (for trees, wires, outlines)
+Background: Smoothed gradients with tonal layering
+Edge Treatment: Subtle feathering; use chromatic contrast over linework
+
+Lighting Logic
+
+Time of Day: Twilight (post-sunset, pre-night)
+Light Source: Ambient residual light from below the horizon
+Contrast: High (silhouetted foreground vs illuminated sky/cloud)
+Shadows: Cool, deep indigo or blue-black
+Highlights: Warm glow, usually on clouds or reflective surfaces
+
+Composition & Depth
+
+Orientation: Flexible (portrait or landscape)
+Depth Creation: Atmospheric desaturation in distance
+Framing: Foreground silhouettes (trees, rooftops, figures) anchor frame
+Focal Point: Luminous sky area or light-bearing surface
+
+Mood & Symbolism
+
+Tone: Reflective, quiet, sacred
+Emotional Resonance: Solitude, reverence, duskiness
+Symbolic Lighting: Light suggests fading or transition
+
+
+
+⸻
+
+✅ COLOR INTEGRATION: Chameleon Palette Mapping
+
+How to use it within this system:
+1.	Extract dominant hues from the input image.
+2.	Match each to the nearest Chameleon color (via closest hex value).
+3.	Replace source hue with Chameleon match in each painted stroke.
+4.	Maintain contrast and gradient logic — don’t flatten shadows or highlights.
+5.	Use Chameleon hues not just for fidelity, but to reinforce mood-appropriate tones:
+•	Highlights: Use #FEA829, #FFCC2F, #F0DEB7
+•	Shadows: Use #2B2B2B, #354A5D, #2D3E50, #262626
+•	Sky: #2F81B8, #3B9AD9, #EDF1F2, #BEC4C8
+•	Trees/foreground: #2E5037, #5E4536, #503B2D
+
+⸻
+
+✅ USAGE TEMPLATE (summary)
+
+Input: Image
+Process:
+1.	Analyze subject → isolate figure vs background
+2.	Apply “Twilight Tonalist Atmospheric Render” style
+3.	Replace color spectrum with nearest-match from Chameleon palette
+4.	Preserve lighting logic: warm glow vs deep shadows
+5.	Output: oil painting aesthetic, emotionally resonant, subdued matte texture
+
+⸻
+
+Let me know if you want this wrapped as a callable preset format or expanded into variants (e.g., morning version, snowlight version, etc).
