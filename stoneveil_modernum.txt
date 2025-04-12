@@ -1,0 +1,46 @@
+Here is the Synthesis Prompt that fuses the artistic DNA of the five provided portraits. This prompt balances the Stoneveil Realist depth and historical reverence with subtle modernity and emotional charge from the last two images.
+
+⸻
+
+🎨 Unified Style Prompt – “Stoneveil Modernum”
+
+A style for rendering emotionally charged, historically grounded portraits with subtle modern undertones.
+
+⸻
+
+Brushwork & Surface
+	•	Painterly realism with visible hand: directional strokes in hair, fabric, and skin shadows.
+	•	Matte finish. Soft drag across skin planes, rougher on textiles and background.
+	•	Combine the tight detail of oil portraiture with broader, almost sculptural planes in garments and armor.
+
+Facial & Anatomical Rendering
+	•	Eyes must carry interiority—suspicion, gravity, weariness, defiance.
+	•	Faces are expressive but restrained—furrowed brows, faint grimaces, stoic tension.
+	•	Aging rendered in tonal layering, not caricature: sunken cheeks, flushed noses, shadowed eye sockets.
+
+Lighting
+	•	Ambient or single-source from upper left. Chiaroscuro used to highlight tension in the brow, nose ridge, and jaw.
+	•	Avoid over-dramatization. Skin glows with a natural, cool warmth—highlights edge into bluish ivory.
+
+Color Palette (Chameleon-Aligned)
+	•	Earth pigments dominate: #A38673 (leather), #D5C298 (flesh), #354A5D (shadows), #EDF1F2 (cool highlights).
+	•	Accents via #E57F31 (rust-red surcoats), #2B2B2B (coarse cloaks), #262626 (hair).
+	•	T-shirts or modern fabric mapped to linen or coarse cotton, softened to historical analogues unless retained for contrast.
+
+Clothing & Armor
+	•	Combine late 11th-century Norman silhouettes with subtle modern echoes (e.g., a slogan shirt rendered in wool, or mail coifs layered under dramatic cloaks).
+	•	Armor is worn, practical, and regionally correct (mail hauberks, padded tunics, plain sword belts).
+	•	Cloaks and outerwear have visible weight—folds fall with gravity, edges fray naturally.
+
+Mood & Emotion
+	•	Subjects exude self-awareness and internal contradiction: the monk with a soldier’s gaze, the knight with quiet rebellion, the modern man with medieval stillness.
+	•	Every figure carries personal narrative in their stance and facial tilt.
+	•	Emotional tone: haunted, unyielding, human.
+
+Composition & Background
+	•	Neutral or textured backgrounds—suggestive of stone walls, overcast skies, or dim interiors.
+	•	Modern settings softened to appear timeless: a shelf, a window, or ruins might dissolve into painterly haze.
+
+⸻
+
+Let me know if you’d like this prompt adapted for cinematic scene generation or group composition.
