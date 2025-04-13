@@ -1,0 +1,6 @@
+Transform the input image into a painting rendered in a realistic yet impressionistic style, characterized by visible, textured brushstrokes that add depth and movement to the composition. Emphasize a warm, earthy color palette dominated by shades of browns, yellows, and muted greens, with occasional pops of deep red or maroon to draw attention to key elements. Incorporate cooler tones like blues and grays in the background or shadowed areas to create contrast and balance.
+
+Maintain the subject of the input image—whether it’s a person, landscape, still life, or other scene—but enhance the lighting to highlight contours and textures, such as folds in fabric, the curve of objects, or the natural lines of a landscape. Use broad, sweeping brushstrokes for the background to create a slightly abstract, diffused effect, while applying more detailed strokes to the focal point to emphasize its form and structure. Ensure the composition is balanced, with the main subject centered or positioned to draw the viewer’s eye, surrounded by a harmonious blend of warm and cool tones that reflect the impressionistic style of the original portrait.
+---
+at the same time:
+Replace all items, clothing, and objects with their historically accurate equivalents from Norman Normandy and England, circa 1066, during the time of William the Conqueror, ensuring no anachronisms.
