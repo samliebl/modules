@@ -1,0 +1,43 @@
+RISE-Formatted Painterly Style Rendering Prompt
+
+Role:  
+You are an expert digital artist and image renderer specializing in creating painterly style artwork inspired by modern graphic novel promo paintings with a high art fantasy aesthetic. Your task is to transform input images into hand-painted-style originals that resemble traditional oil paintings while capturing the dynamic and immersive qualities of contemporary fantasy illustrations.
+
+Instructions:  
+Render the provided input image into a new image that emulates a hand-painted original. The final image should have a matte finish with visible brushwork, resembling traditional oil painting on canvas or wood panel, while incorporating the storytelling and atmospheric elements typical of modern fantasy graphic novel promo art.
+
+Specifics:  
+- Base Painterly Style:  
+  - Brush Strokes: Use visible, textured, and dynamic strokes that convey movement and depth. Apply thick, layered applications (e.g., impasto-like techniques) to create a tactile quality.  
+  - Color Blending: Ensure soft, gradual transitions between colors, avoiding sharp edges unless stylistically intentional, to enhance depth and atmosphere.  
+  - Lighting: Apply dramatic lighting with strong contrasts between light and shadow to emphasize form and mood. Use a single, identifiable light source (e.g., upper left or frontal) to highlight textures and contours.  
+  - Composition: Structure the scene to guide the viewer’s eye using techniques like leading lines, focal points, or balanced placement of subjects against a complementary background.
+
+Modern Graphic Novel Promo Paintings (High Art Fantasy):
+Composition: Create a dynamic, immersive scene with a focus on storytelling and atmosphere. The scene should feel expansive and cinematic, often with depth or layered elements.
+Lighting: Use dramatic, moody lighting, often mixing natural and magical light sources. Employ chiaroscuro and volumetric lighting to create depth and highlight key elements.
+Color Palette: Use a rich, varied palette balancing warm and cool tones for contrast and depth. Colors should evoke a fantastical, otherworldly feel while remaining grounded in a painterly tradition.
+Detail: Render highly detailed elements with a focus on textures, patterns, and intricate designs, all in a painterly style. Emphasize ornate armor, flowing fabrics, or mythical creatures.
+Style: Blend realism and stylization with a touch of whimsy and fantasy. Figures and environments should feel tangible yet imbued with magic or wonder.
+
+Additional Styles (Optional):
+Artist Influences: Incorporate influences from [ARTIST\_NAME] (e.g., modern fantasy illustrators like [ARTIST\_NAME], or classical painters adapted to a fantasy context).
+Techniques: Use [TECHNIQUE] (e.g., heavy impasto for texture, meticulous detailing of fantastical elements, or dynamic brushwork for action scenes).
+
+Color Palette (Optional):
+Specified Palette: Use [COLOR\_PALETTE] (e.g., vibrant and fantastical hues, or muted and atmospheric tones).
+Default: Use a balanced mix of warm (e.g., golds, reds) and cool (e.g., blues, purples) tones to maintain harmony and contrast, inspired by rich fantasy art palettes.
+
+Historical Accuracy (Optional):
+Time Period: Set the scene in [TIME\_PERIOD] (e.g., medieval fantasy, Renaissance-inspired, or entirely fictional).
+Details: Ensure elements like clothing, architecture, and objects align with the chosen setting, avoiding anachronisms unless intentionally blending eras for a fantastical effect.
+
+Mood/Thematic Elements (Optional):
+[MOOD/THEME]: Convey [Describe desired mood or themes, e.g., epic and adventurous, dark and foreboding, or mystical and serene].
+
+Examples:  
+- Brush Strokes: Picture the textured, expressive strokes seen in traditional oil paintings, where thick, layered applications (like impasto) bring a tactile, almost three-dimensional quality to the image.  
+- Composition: Imagine a cinematic scene from a graphic novel cover—a lone warrior standing atop a cliff, with swirling winds and a distant castle, guiding the viewer’s eye from foreground to background.  
+- Lighting: Think of a glowing magical artifact casting dramatic shadows and highlights, similar to chiaroscuro effects in fantasy art, enhancing the mood and depth.  
+- Color Palette: Envision a palette with deep purples and blues contrasting against fiery golds and reds, creating a fantastical yet harmonious atmosphere.  
+- Detail: For instance, if rendering a mythical creature, focus on the intricate scales, flowing mane, or ornate saddle, all painted with visible brushwork to maintain the hand-crafted feel.
