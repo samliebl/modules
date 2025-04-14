@@ -1,1 +1,51 @@
 
+
+Painterly Style Rendering Prompt (High Art Fantasy Graphic Novel Style)
+
+Render the input image in a painterly style inspired by modern graphic novel promo paintings, emphasizing a high art fantasy aesthetic. The final image should emulate a hand-painted original with a matte finish and visible brushwork, resembling traditional oil painting on canvas or wood panel, while capturing the dynamic, immersive qualities of contemporary fantasy illustrations.
+
+Base Painterly Style
+Brush Strokes: Visible and textured, with dynamic, expressive strokes that convey movement and depth. Use thick, layered applications (e.g., impasto-like techniques) to create a tactile quality.
+Color Blending: Soft and gradual transitions between colors, avoiding sharp edges unless stylistically intentional, to enhance depth and atmosphere.
+Lighting: Dramatic, with strong contrasts between light and shadow to emphasize form and mood. Light typically originates from a single, identifiable source (e.g., upper left or frontal) to highlight textures and contours.
+Composition: Structured to guide the viewer’s eye through the scene, using techniques like leading lines, focal points, or balanced placement of subjects against a complementary background.
+
+Modern Graphic Novel Promo Paintings (High Art Fantasy)
+Composition: Dynamic and immersive, with a focus on storytelling and atmosphere. Scenes should feel expansive and cinematic, often with a sense of depth or layered elements.
+Lighting: Dramatic and moody, often with a mix of natural and magical light sources. Use chiaroscuro and volumetric lighting to create depth and highlight key elements.
+Color Palette: Rich and varied, balancing warm and cool tones to create contrast and depth. Colors should evoke a fantastical, otherworldly feel while remaining grounded in a painterly tradition.
+Detail: Highly detailed, with a focus on textures, patterns, and intricate designs, all rendered in a painterly style. Emphasize elements like ornate armor, flowing fabrics, or mythical creatures.
+Style: A blend of realism and stylization, with a touch of whimsy and fantasy. Figures and environments should feel tangible yet imbued with a sense of magic or wonder.
+
+Additional Styles (Optional)
+Artist Influences: [ARTIST\_NAME] (e.g., influences from modern fantasy illustrators like [ARTIST\_NAME], or classical painters adapted to a fantasy context).
+Techniques: [TECHNIQUE] (e.g., heavy impasto for texture, meticulous detailing of fantastical elements, or dynamic brushwork for action scenes).
+
+Color Palette (Optional)
+Specified Palette: [COLOR\_PALETTE] (e.g., vibrant and fantastical hues, or muted and atmospheric tones).
+Default: A balanced mix of warm (e.g., golds, reds) and cool (e.g., blues, purples) tones to maintain harmony and contrast, inspired by the rich palettes of fantasy art.
+
+Historical Accuracy (Optional)
+Time Period: [TIME\_PERIOD] (e.g., medieval fantasy, Renaissance-inspired, or entirely fictional).
+Details: Ensure elements like clothing, architecture, and objects align with the chosen setting, avoiding anachronisms unless intentionally blending eras for a fantastical effect.
+
+Mood/Thematic Elements (Optional)
+[MOOD/THEME]: [Describe desired mood or themes, e.g., epic and adventurous, dark and foreboding, or mystical and serene].
+
+---
+
+Plain Text Version
+
+Render the input image in a painterly style inspired by modern graphic novel promo paintings, emphasizing a high art fantasy aesthetic. The final image should emulate a hand-painted original with a matte finish and visible brushwork, resembling traditional oil painting on canvas or wood panel, while capturing the dynamic, immersive qualities of contemporary fantasy illustrations.
+
+Base Painterly Style: Brush Strokes - Visible and textured, with dynamic, expressive strokes that convey movement and depth. Use thick, layered applications (e.g., impasto-like techniques) to create a tactile quality. Color Blending - Soft and gradual transitions between colors, avoiding sharp edges unless stylistically intentional, to enhance depth and atmosphere. Lighting - Dramatic, with strong contrasts between light and shadow to emphasize form and mood. Light typically originates from a single, identifiable source (e.g., upper left or frontal) to highlight textures and contours. Composition - Structured to guide the viewer’s eye through the scene, using techniques like leading lines, focal points, or balanced placement of subjects against a complementary background.
+
+Modern Graphic Novel Promo Paintings (High Art Fantasy): Composition - Dynamic and immersive, with a focus on storytelling and atmosphere. Scenes should feel expansive and cinematic, often with a sense of depth or layered elements. Lighting - Dramatic and moody, often with a mix of natural and magical light sources. Use chiaroscuro and volumetric lighting to create depth and highlight key elements. Color Palette - Rich and varied, balancing warm and cool tones to create contrast and depth. Colors should evoke a fantastical, otherworldly feel while remaining grounded in a painterly tradition. Detail - Highly detailed, with a focus on textures, patterns, and intricate designs, all rendered in a painterly style. Emphasize elements like ornate armor, flowing fabrics, or mythical creatures. Style - A blend of realism and stylization, with a touch of whimsy and fantasy. Figures and environments should feel tangible yet imbued with a sense of magic or wonder.
+
+Additional Styles (Optional): Artist Influences - [ARTIST\_NAME] (e.g., influences from modern fantasy illustrators like [ARTIST\_NAME], or classical painters adapted to a fantasy context). Techniques - [TECHNIQUE] (e.g., heavy impasto for texture, meticulous detailing of fantastical elements, or dynamic brushwork for action scenes).
+
+Color Palette (Optional): Specified Palette - [COLOR\_PALETTE] (e.g., vibrant and fantastical hues, or muted and atmospheric tones). Default - A balanced mix of warm (e.g., golds, reds) and cool (e.g., blues, purples) tones to maintain harmony and contrast, inspired by the rich palettes of fantasy art.
+
+Historical Accuracy (Optional): Time Period - [TIME\_PERIOD] (e.g., medieval fantasy, Renaissance-inspired, or entirely fictional). Details - Ensure elements like clothing, architecture, and objects align with the chosen setting, avoiding anachronisms unless intentionally blending eras for a fantastical effect.
+
+Mood/Thematic Elements (Optional): [MOOD/THEME] - [Describe desired mood or themes, e.g., epic and adventurous, dark and foreboding, or mystical and serene].
