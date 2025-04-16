@@ -1,43 +1,41 @@
-Below is a complete prompt designed for an image AI to generate realistic oil painting portraits in a classical European style, adaptable to different subjects. The prompt includes the original warm, muted color palette and two alternative color palette submodules: "Solarized" and "Chameleon." The Chameleon palette has been incorporated as requested, with the ability to be invoked and function identically to the Solarized palette.
-
 This prompt allows you to generate portraits with varying subjects while preserving the detailed, realistic oil painting style. The addition of the Chameleon color palette submodule, as requested, provides an alternative color scheme that functions identically to the Solarized palette, giving you creative flexibility in your image generation.
 ---
 
-## Base Prompt
+Base Prompt
 
-"Create a realistic oil painting portrait in a classical European style. The subject is **[insert subject here]**, depicted from the chest up against an abstract, earthy background that complements the subject. Use a warm, muted color palette dominated by browns, beiges, and golds. Render the face with high detail, capturing realistic skin textures, eyes, and facial features. Use broader, more expressive brushstrokes for the hair and clothing, which should be appropriate for the subject's character or time period. The lighting should be soft and frontal, enhancing the three-dimensionality of the subject. The overall mood should be timeless and contemplative."
+"Create a realistic oil painting portrait in a classical European style. The subject is [insert subject here], depicted from the chest up against an abstract, earthy background that complements the subject. Use a warm, muted color palette dominated by browns, beiges, and golds. Render the face with high detail, capturing realistic skin textures, eyes, and facial features. Use broader, more expressive brushstrokes for the hair and clothing, which should be appropriate for the subject's character or time period. The lighting should be soft and frontal, enhancing the three-dimensionality of the subject. The overall mood should be timeless and contemplative."
 
 ---
 
-## Color Palette Submodules
+Color Palette Submodules
 
 You can optionally invoke one of the following color palette submodules to modify the color scheme of the generated image. When a submodule is invoked, the colors in the image should shift toward the specified palette while maintaining the realistic and classical aesthetic of the portrait. If no submodule is invoked, the default warm, muted color palette (browns, beiges, golds) from the base prompt will be used.
 
-### 1. Solarized Color Palette Submodule
+1. Solarized Color Palette Submodule
 
-"Apply the **solarized color palette** submodule, which includes the following colors:  
-- **base03**: #002b36  
-- **base02**: #073642  
-- **base01**: #586e75  
-- **base00**: #657b83  
-- **base0**: #839496  
-- **base1**: #93a1a1  
-- **base2**: #eee8d5  
-- **base3**: #fdf6e3  
-- **yellow**: #b58900  
-- **orange**: #cb4b16  
-- **red**: #dc322f  
-- **magenta**: #d33682  
-- **violet**: #6c71c4  
-- **blue**: #268bd2  
-- **cyan**: #2aa198  
-- **green**: #859900  
+"Apply the solarized color palette submodule, which includes the following colors:  
+- base03: #002b36  
+- base02: #073642  
+- base01: #586e75  
+- base00: #657b83  
+- base0: #839496  
+- base1: #93a1a1  
+- base2: #eee8d5  
+- base3: #fdf6e3  
+- yellow: #b58900  
+- orange: #cb4b16  
+- red: #dc322f  
+- magenta: #d33682  
+- violet: #6c71c4  
+- blue: #268bd2  
+- cyan: #2aa198  
+- green: #859900  
 
 The colors in the image should be derived from these solarized colors or interpolations between them, ensuring the final image reflects the solarized color scheme while preserving the realistic and classical aesthetic of the portrait."
 
-### 2. Chameleon Color Palette Submodule
+2. Chameleon Color Palette Submodule
 
-"Apply the **chameleon color palette** submodule, which includes the following colors:  
+"Apply the chameleon color palette submodule, which includes the following colors:  
 - #E64E42 – Bright Red  
 - #BF3A31 – Deep Brick  
 - #E57F31 – Burnt Orange  
@@ -90,16 +88,16 @@ The colors in the image should be derived from these chameleon colors or interpo
 
 ---
 
-## How to Use
+How to Use
 
-1. **Base Prompt Usage**: Replace **[insert subject here]** with your desired subject (e.g., "a medieval knight," "an elderly woman," "a mythical creature").  
-   - Example: "Create a realistic oil painting portrait in a classical European style. The subject is a medieval knight, depicted from the chest up against an abstract, earthy background that complements the subject..."
+Base Prompt Usage: Replace [insert subject here] with your desired subject (e.g., "a medieval knight," "an elderly woman," "a mythical creature").
+Example: "Create a realistic oil painting portrait in a classical European style. The subject is a medieval knight, depicted from the chest up against an abstract, earthy background that complements the subject..."
 
-2. **Invoking a Color Palette**: To use an alternative color palette, append the corresponding submodule text to the base prompt.  
-   - **Solarized Example**: Add the Solarized submodule text after the base prompt to shift the colors toward the solarized palette.  
-   - **Chameleon Example**: Add the Chameleon submodule text after the base prompt to shift the colors toward the chameleon palette.  
-   - If no submodule is added, the default warm, muted palette will apply.
+Invoking a Color Palette: To use an alternative color palette, append the corresponding submodule text to the base prompt.
+Solarized Example: Add the Solarized submodule text after the base prompt to shift the colors toward the solarized palette.
+Chameleon Example: Add the Chameleon submodule text after the base prompt to shift the colors toward the chameleon palette.
+If no submodule is added, the default warm, muted palette will apply.
 
-3. **Flexibility**: The prompt ensures the classical European oil painting style is maintained across different subjects. The background and clothing will adapt to the subject’s character or time period, and the color palette can be customized via the submodules.
+Flexibility: The prompt ensures the classical European oil painting style is maintained across different subjects. The background and clothing will adapt to the subject’s character or time period, and the color palette can be customized via the submodules.
 
 ---
