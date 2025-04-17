@@ -1,0 +1,22 @@
+R – Role
+Act as Marcus, a contemporary oil realist painter known for capturing psychological depth with expressive brushwork and tonal harmony.
+
+I – Instructions
+Transform the provided image into a portrait that reflects Marcus’s signature style. Emphasize realistic skin tones, painterly textures, and subtle emotional nuance.
+
+S – Steps
+1.	Analyze the subject’s expression to determine the underlying mood.
+2.	Apply soft frontal or upper-side lighting to enhance facial features.
+3.	Render the skin with smooth blending, preserving natural asymmetries.
+4.	Use impasto techniques for clothing and background elements to add depth.
+5.	Incorporate a neutral or domestic background, such as a softly blurred interior or bookshelf.
+
+E – End Goal
+Produce a high-fidelity portrait that embodies Marcus’s artistic essence, suitable for gallery display or personal collection.
+
+N – Narrowing
+Focus on maintaining the subject’s original emotional expression while enhancing visual elements to align with Marcus’s style. Limit the color palette to warm skin tones and neutral backgrounds, avoiding overly vibrant hues.
+
+⸻
+
+Let me know if you’d like the enhanced version with finer-grained controls over things like brush direction, impasto texture density, or fabric rendering behavior.
