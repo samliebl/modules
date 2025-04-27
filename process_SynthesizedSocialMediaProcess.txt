@@ -1,35 +1,71 @@
-The following updates have been incorporated into the Synthesized Modular Social Media Marketing Process:
-	1.	Plain Text Output Only
-All outputs will be delivered exclusively in human-readable plain text, following a clear structure with channel name, post content, and character count in parentheses.
-	2.	Removal of Proprietary Hashtags
-Automatically exclude proprietary or brand-specific hashtags (e.g., #EathelTheBastard). Only general, thematic, and platform-relevant hashtags will be used.
-	3.	Emoji Integration
-Each generated post will include one to three relevant emojis, aligned with the theme, tone, and platform style. Emojis will enhance engagement without exceeding character limits.
+Synthesized Modular Social Media Marketing Process
+With Amendments: Plain Text Output, No Proprietary Hashtags, Emoji Integration
 
-⸻
+Description:
+This advanced, customizable process generates optimized social media posts across eight channels, targeting fantasy serial novel readers (and business professionals for LinkedIn). It incorporates user-provided inputs, real-time trend research, and platform-specific adaptations. Outputs are delivered in plain text with thematic hashtags and relevant emojis.
 
-Updated Process Summary
+Inputs:
+	•	Marketing Message (required)
+	•	Call to Action (CTA, required)
+	•	Text (optional)
+	•	Audience Segment (optional, defaults to “fantasy serial novel readers” / LinkedIn: “business pros”)
+	•	Content Type (optional, defaults to “video”)
+	•	Tone (optional, defaults to platform styles)
+	•	Date (optional, defaults to current date)
+
+Operation:
+	1.	Define Channels and Character Limits:
+Threads (500), Instagram (2,200), Facebook Page (63,206), TikTok (2,200), Bluesky (300), X (280), YouTube (5,000 + title 100), LinkedIn (3,000)
+	2.	Handle Inputs:
+Prompt for missing required fields. Default optional fields as specified.
+	3.	Channel-Specific Trend Research:
+
+	•	Conduct real-time trend analysis per platform.
+	•	Use only thematic, general hashtags. Exclude proprietary hashtags.
+	•	Fixed hashtags:
+Threads: #bookthreads
+Instagram: #bookstagram + 4
+Facebook: 5 tags
+TikTok: #booktok #booktoklive + 3
+Bluesky: #booksky + 4
+X: #booktwtr + 4
+YouTube: 5 tags
+LinkedIn: 5 tags
+
+	4.	Generate Posts:
+For each channel:
+
+	•	Craft a platform-appropriate hook using Marketing Message, Audience, and Tone.
+	•	Add CTA with placement adapted to platform norms (e.g., “link in bio”).
+	•	Adjust for Content Type.
+	•	Insert 1-3 relevant emojis reflecting theme, tone, and platform culture.
+	•	Apply trend-researched hashtags.
+
+	5.	Validation:
+
+	•	Ensure character limits are not exceeded.
+	•	Warn if limits are breached.
+	•	Confirm tone and audience alignment.
 
 Output Format:
-	•	Plain text only.
+	•	Plain text only
 	•	Structure:
 [Channel Name] ([Character Limit] chars):
 [Post Content with emojis and hashtags] ([Character Count])
 
-Hashtag Rules:
-	•	Use only thematic, general, and platform-appropriate hashtags.
-	•	Exclude proprietary tags related to specific IP, brand names, or unique identifiers.
-
-Emoji Integration:
-	•	Insert 1-3 emojis per post.
-	•	Emojis must reflect key themes such as mystery, digital context, fantasy, storytelling, or platform-specific culture.
-	•	Ensure they enhance readability and engagement.
-
-Example (Revised Standard):
-
+Example:
 Threads (500 chars):
-Video: In a world where nothing stays hidden 🕵️‍♂️, shadows of the past meet our digital age 🌐. Explore at stack.samliebl.com #bookthreads (150)
+Video: Embrace the art of flexible outlining ✍️🧠 Let your story breathe and evolve. Discover how at stack.samliebl.com #bookthreads (123)
 
-These modifications are now embedded as default behavior in the process.
+Instructions for User:
+	•	Provide Marketing Message and CTA.
+	•	Optionally provide Text, Audience, Content Type, Tone, Date.
+	•	Receive plain text posts tailored to Threads, Instagram, Facebook, TikTok, Bluesky, X, YouTube, LinkedIn.
 
-If further adjustments are required—such as limiting emoji categories, defining a fixed emoji set per theme, or setting maximum total hashtags—specify those parameters. Otherwise, this process is finalized with the latest enhancements.
+Amendments Summary:
+	•	Plain Text Output standardized.
+	•	Proprietary Hashtags Removed by default.
+	•	Emoji Integration mandatory (1-3 per post).
+	•	Consistent validation for character limits.
+
+This process is finalized per current specifications.
