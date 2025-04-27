@@ -1,0 +1,35 @@
+The following updates have been incorporated into the Synthesized Modular Social Media Marketing Process:
+	1.	Plain Text Output Only
+All outputs will be delivered exclusively in human-readable plain text, following a clear structure with channel name, post content, and character count in parentheses.
+	2.	Removal of Proprietary Hashtags
+Automatically exclude proprietary or brand-specific hashtags (e.g., #EathelTheBastard). Only general, thematic, and platform-relevant hashtags will be used.
+	3.	Emoji Integration
+Each generated post will include one to three relevant emojis, aligned with the theme, tone, and platform style. Emojis will enhance engagement without exceeding character limits.
+
+⸻
+
+Updated Process Summary
+
+Output Format:
+	•	Plain text only.
+	•	Structure:
+[Channel Name] ([Character Limit] chars):
+[Post Content with emojis and hashtags] ([Character Count])
+
+Hashtag Rules:
+	•	Use only thematic, general, and platform-appropriate hashtags.
+	•	Exclude proprietary tags related to specific IP, brand names, or unique identifiers.
+
+Emoji Integration:
+	•	Insert 1-3 emojis per post.
+	•	Emojis must reflect key themes such as mystery, digital context, fantasy, storytelling, or platform-specific culture.
+	•	Ensure they enhance readability and engagement.
+
+Example (Revised Standard):
+
+Threads (500 chars):
+Video: In a world where nothing stays hidden 🕵️‍♂️, shadows of the past meet our digital age 🌐. Explore at stack.samliebl.com #bookthreads (150)
+
+These modifications are now embedded as default behavior in the process.
+
+If further adjustments are required—such as limiting emoji categories, defining a fixed emoji set per theme, or setting maximum total hashtags—specify those parameters. Otherwise, this process is finalized with the latest enhancements.
