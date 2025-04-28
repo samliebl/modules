@@ -1,71 +1,99 @@
+Here is the complete Synthesized Modular Social Media Marketing Process, structured exactly in plain text, fully integrating the Marketing Message Module and Hashtag Module.
+
+⸻
+
 Synthesized Modular Social Media Marketing Process
-With Amendments: Plain Text Output, No Proprietary Hashtags, Emoji Integration
+(Plain Text, Finalized Structure)
 
 Description:
-This advanced, customizable process generates optimized social media posts across eight channels, targeting fantasy serial novel readers (and business professionals for LinkedIn). It incorporates user-provided inputs, real-time trend research, and platform-specific adaptations. Outputs are delivered in plain text with thematic hashtags and relevant emojis.
+This advanced process generates optimized social media posts across eight platforms for fantasy serial novel readers (or business professionals on LinkedIn). It incorporates a marketing message, real-time trend research, platform-specific adaptations, emoji visual integration, and strict character limits. Outputs are delivered in plain text with preserved line breaks.
+
+Modules:
+	•	Marketing Message Module (engine for generating copy)
+	•	Hashtag Module (platform-specific hashtag validation and insertion)
 
 Inputs:
 	•	Marketing Message (required)
-	•	Call to Action (CTA, required)
-	•	Text (optional)
-	•	Audience Segment (optional, defaults to “fantasy serial novel readers” / LinkedIn: “business pros”)
+	•	Call to Action (required)
+	•	Tone (optional, defaults to platform-appropriate)
 	•	Content Type (optional, defaults to “video”)
-	•	Tone (optional, defaults to platform styles)
-	•	Date (optional, defaults to current date)
+	•	Audience Segment (optional, defaults to “fantasy serial novel readers” / LinkedIn: “business pros”)
+	•	Date (optional, defaults to today)
 
-Operation:
+Process:
 	1.	Define Channels and Character Limits:
-Threads (500), Instagram (2,200), Facebook Page (63,206), TikTok (2,200), Bluesky (300), X (280), YouTube (5,000 + title 100), LinkedIn (3,000)
-	2.	Handle Inputs:
-Prompt for missing required fields. Default optional fields as specified.
-	3.	Channel-Specific Trend Research:
 
-	•	Conduct real-time trend analysis per platform.
-	•	Use only thematic, general hashtags. Exclude proprietary hashtags.
-	•	Fixed hashtags:
-Threads: #bookthreads
-Instagram: #bookstagram + 4
-Facebook: 5 tags
-TikTok: #booktok #booktoklive + 3
-Bluesky: #booksky + 4
-X: #booktwtr + 4
-YouTube: 5 tags
-LinkedIn: 5 tags
+	•	Threads: 500 chars
+	•	Instagram: 2,200 chars
+	•	Facebook: 63,206 chars
+	•	TikTok: 2,200 chars
+	•	Bluesky: 300 chars
+	•	X (Twitter): 280 chars
+	•	YouTube: Title 100 chars + Description 5,000 chars
+	•	LinkedIn: 3,000 chars
 
-	4.	Generate Posts:
-For each channel:
+	2.	Marketing Message Module:
 
-	•	Craft a platform-appropriate hook using Marketing Message, Audience, and Tone.
-	•	Add CTA with placement adapted to platform norms (e.g., “link in bio”).
-	•	Adjust for Content Type.
-	•	Insert 1-3 relevant emojis reflecting theme, tone, and platform culture.
-	•	Apply trend-researched hashtags.
+	•	Parse Marketing Message for key themes and emotional beats.
+	•	Determine tone if not specified.
+	•	Create concise hook and body text optimized for each platform.
+	•	Integrate 1–3 emojis naturally into copy.
+	•	Replace functional Unicode symbols (e.g., ➡️, ✓) with emojis (➡️, ✅).
+	•	Insert CTA after main body text, formatted with emojis and preserved line breaks.
+	•	Enforce plain text only, no styling or markdown.
 
-	5.	Validation:
+	3.	Hashtag Module:
 
-	•	Ensure character limits are not exceeded.
-	•	Warn if limits are breached.
-	•	Confirm tone and audience alignment.
+	•	Mandatory research of active, current platform hashtags every time.
+	•	Default platform-specific hashtags (validated and enforced):
+	•	Threads → #bookthreads
+	•	Instagram → #bookstagram
+	•	Facebook → #bookcommunity
+	•	TikTok → #booktok #booktoklive
+	•	Bluesky → #booksky
+	•	X (Twitter) → #booktwt
+	•	YouTube → #booktube
+	•	LinkedIn → #storytelling
+	•	Rules:
+	•	Threads: Only 1 hashtag (platform-specific)
+	•	All other platforms: 1 platform-specific hashtag first, then 1–4 general thematic hashtags based on real-time trend research
+	•	No proprietary hashtags allowed
+	•	Notify user if research suggests better thematic hashtags
+
+	4.	Validation:
+
+	•	Confirm all posts are within character limits.
+	•	Confirm correct number of emojis (1–3) per post.
+	•	Confirm hashtag module and marketing message module integration.
+	•	Confirm platform tone appropriateness.
 
 Output Format:
 	•	Plain text only
-	•	Structure:
-[Channel Name] ([Character Limit] chars):
-[Post Content with emojis and hashtags] ([Character Count])
+	•	Structure per platform:
+	•	[Platform Name] ([Character Limit] chars):
+	•	[Post Content with emojis, hashtags, CTA, character count]
 
 Example:
 Threads (500 chars):
-Video: Embrace the art of flexible outlining ✍️🧠 Let your story breathe and evolve. Discover how at stack.samliebl.com #bookthreads (123)
+Video:
+Embrace the crazy magic of BookTok 📚❓
+It feels just like trying to survive inside the book’s story itself.
+
+Free forever ➡️ stack.samliebl.com ✅
+• no app download ✅
+• no new account ✅
+• email ➡️ inbox
+
+#bookthreads
+(230)
 
 Instructions for User:
 	•	Provide Marketing Message and CTA.
-	•	Optionally provide Text, Audience, Content Type, Tone, Date.
-	•	Receive plain text posts tailored to Threads, Instagram, Facebook, TikTok, Bluesky, X, YouTube, LinkedIn.
+	•	Optionally specify Tone, Audience Segment, Content Type, Date.
+	•	Receive full platform-specific posts optimized for Threads, Instagram, Facebook, TikTok, Bluesky, X, YouTube, LinkedIn.
 
-Amendments Summary:
-	•	Plain Text Output standardized.
-	•	Proprietary Hashtags Removed by default.
-	•	Emoji Integration mandatory (1-3 per post).
-	•	Consistent validation for character limits.
+⸻
 
-This process is finalized per current specifications.
+This is the fully complete version of your Synthesized Modular Social Media Marketing Process, integrating the Marketing Message Module and the Hashtag Module precisely to your specifications.
+
+Standing by for your next marketing message input to run through this finalized system.
